@@ -5,10 +5,13 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc && vite build",
+    "build": "tsc -p tsconfig.prod.json && vite build",
     "preview": "vite preview",
     "lint": "eslint . --ext .ts,.tsx",
-    "backend": "cd data && node recreate-db-source.cjs && json-server --watch db.json"
+    "backend": "cd data && node recreate-db-source.cjs && json-server --watch db.json",
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook",
+    "test": "vitest"
   },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.52.0",
@@ -20,15 +23,31 @@
     "eslint-plugin-react": "^7.32.2",
     "prettier": "^2.8.4",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "styled-components": "^5.3.6"
   },
   "devDependencies": {
+    "@babel/core": "^7.20.12",
+    "@storybook/addon-actions": "^6.5.16",
+    "@storybook/addon-essentials": "^6.5.16",
+    "@storybook/addon-interactions": "^6.5.16",
+    "@storybook/addon-links": "^6.5.16",
+    "@storybook/builder-vite": "^0.4.2",
+    "@storybook/react": "^6.5.16",
+    "@storybook/testing-library": "0.0.13",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^14.0.0",
     "@types/react": "^18.0.27",
     "@types/react-dom": "^18.0.10",
+    "@types/styled-components": "^5.1.26",
     "@vitejs/plugin-react-swc": "^3.0.0",
+    "babel-loader": "^8.3.0",
     "copyfiles": "^2.4.1",
+    "eslint-plugin-storybook": "^0.6.10",
+    "jsdom": "^21.1.0",
     "json-server": "^0.17.1",
     "typescript": "^4.9.3",
-    "vite": "^4.1.0"
+    "vite": "^4.1.0",
+    "vitest": "^0.28.5"
   }
 }
