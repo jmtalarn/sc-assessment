@@ -6,7 +6,7 @@
         "id": 276528,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5xdc.jpg"
       },
-      "first_release_date": 1041292800,
+      "firstReleaseDate": 1041292800,
       "name": "The Lord of the Rings: The Fellowship of the Ring",
       "slug": "the-lord-of-the-rings-the-fellowship-of-the-ring--1",
       "summary": "A condensed text adventure based on the popular book."
@@ -17,14 +17,14 @@
         "id": 47571,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/o1prentqw39rd239kc3n.jpg"
       },
-      "first_release_date": 949536000,
+      "firstReleaseDate": 949536000,
       "name": "Kabobber",
       "slug": "kabobber",
       "summary": "Kabobber was originally a prototype game that was programmed by Rex Bradford, known for his work on Star Wars: The Empire Strikes Back and Star Wars: Jedi Arena. It was discovered in 2000 and improved upon a little before being released to the public in ROM format. Kabobbers are strange (but cute) little creatures who just love wreaking havoc. Your objective is to send in your Buvskies to krush the Kabobbers before they krush you. You can have up to nine Buvskies onscreen at one time, but you have reserves waiting offscreen should one get krushed. You move your Bruvskies across the grid, jumping on enemy Kabobbers in order to defeat them and earn additional reserve Bruvskies. The baby Bruvskies become big ones when they defeat an enemy. The enemies get tougher and tougher, meaning very good timing is required in the later stages. Above all, you must reach Princess Buvsky before she reaches the rainbow energy at the other end of the level and devours it. A very unique game, but also somewhat fun."
     },
     {
       "id": 24137,
-      "first_release_date": 439171200,
+      "firstReleaseDate": 439171200,
       "genres": [
         {
           "id": 10,
@@ -41,7 +41,7 @@
         "id": 183254,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3xee.jpg"
       },
-      "first_release_date": 441676800,
+      "firstReleaseDate": 441676800,
       "genres": [
         {
           "id": 12,
@@ -58,7 +58,7 @@
         "id": 250828,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5djg.jpg"
       },
-      "first_release_date": 433814400,
+      "firstReleaseDate": 433814400,
       "genres": [
         {
           "id": 33,
@@ -74,7 +74,7 @@
         "id": 26979,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/pj8sk9nipksmhujc8doh.jpg"
       },
-      "first_release_date": 412905600,
+      "firstReleaseDate": 412905600,
       "genres": [
         {
           "id": 5,
@@ -91,7 +91,7 @@
         "id": 119329,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2k2p.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "name": "Inca Gold",
       "slug": "inca-gold",
       "summary": "It is a Donkey Kong like Atari 2600 game."
@@ -102,7 +102,7 @@
         "id": 47155,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/pkiwcmdjtbr0qhy65qor.jpg"
       },
-      "first_release_date": 423619200,
+      "firstReleaseDate": 423619200,
       "genres": [
         {
           "id": 7,
@@ -119,7 +119,7 @@
         "id": 233302,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co500m.jpg"
       },
-      "first_release_date": 1659225600,
+      "firstReleaseDate": 1659225600,
       "genres": [
         {
           "id": 31,
@@ -136,7 +136,7 @@
         "id": 47018,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/rhlhdm1mhgdr5j39sceo.jpg"
       },
-      "first_release_date": 412905600,
+      "firstReleaseDate": 412905600,
       "genres": [
         {
           "id": 5,
@@ -153,7 +153,7 @@
         "id": 73456,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1kog.jpg"
       },
-      "first_release_date": 444873600,
+      "firstReleaseDate": 444873600,
       "name": "Color Bar Generator",
       "slug": "color-bar-generator",
       "summary": "The test pattern cartridge contains 15 displays that can be used to check or align most adjustments for a black and white or color television. One pattern is also included to check the alignment of the color generation circuitry on the Atari VCS ™ console circuit board. A 1kHz and 3kHz tone can be selected with the DIFFICULTY SWITCHES, and the patterns can be selected by scrolling forward or backwards through the list via the GAME SELECT or GAME RESET console switches. \n \n* Title page and VCS color adjustment pattern \n* Color bar pattern \n* Grey scale pattern \n* Cross hatch pattern \n* Dot pattern \n* Vertical lines \n* Horizontal lines \n* Center cross \n* Circle pattern \n* Wide vertical bars \n* Window pattern \n* White screen \n* Red screen \n* Green screen \n* Blue screen"
@@ -164,7 +164,7 @@
         "id": 55674,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/gwiivf9dixj4r4x7t4jo.jpg"
       },
-      "first_release_date": 602294400,
+      "firstReleaseDate": 602294400,
       "genres": [
         {
           "id": 14,
@@ -181,7 +181,7 @@
         "id": 214988,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4lvw.jpg"
       },
-      "first_release_date": 1541376000,
+      "firstReleaseDate": 1541376000,
       "genres": [
         {
           "id": 8,
@@ -198,7 +198,7 @@
         "id": 277912,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5yfs.jpg"
       },
-      "first_release_date": 441676800,
+      "firstReleaseDate": 441676800,
       "genres": [
         {
           "id": 33,
@@ -215,7 +215,7 @@
         "id": 70381,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1ib1.jpg"
       },
-      "first_release_date": 412905600,
+      "firstReleaseDate": 412905600,
       "genres": [
         {
           "id": 33,
@@ -232,7 +232,7 @@
         "id": 278122,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5ylm.jpg"
       },
-      "first_release_date": 420854400,
+      "firstReleaseDate": 420854400,
       "genres": [
         {
           "id": 5,
@@ -249,7 +249,7 @@
         "id": 54605,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/mutbzuxppiy6drqqwlqo.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 9,
@@ -266,7 +266,7 @@
         "id": 17664,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/oy63t0yzf1cqgzwqghne.jpg"
       },
-      "first_release_date": 441676800,
+      "firstReleaseDate": 441676800,
       "genres": [
         {
           "id": 5,
@@ -286,7 +286,7 @@
         "id": 197737,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co48kp.jpg"
       },
-      "first_release_date": 441676800,
+      "firstReleaseDate": 441676800,
       "name": "Taz",
       "slug": "taz"
     },
@@ -296,7 +296,7 @@
         "id": 278064,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5yk0.jpg"
       },
-      "first_release_date": 386467200,
+      "firstReleaseDate": 386467200,
       "name": "Philly Flasher",
       "slug": "philly-flasher",
       "summary": "Philly Flasher a game in which the player controls two male prisoners with their genitals exposed catching lactation from an old witch's breast."
@@ -307,7 +307,7 @@
         "id": 178370,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3tmq.jpg"
       },
-      "first_release_date": 570672000,
+      "firstReleaseDate": 570672000,
       "genres": [
         {
           "id": 14,
@@ -344,7 +344,7 @@
         "id": 54185,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/d2qfhie877uf4zyxy6p3.jpg"
       },
-      "first_release_date": 436579200,
+      "firstReleaseDate": 436579200,
       "name": "Cookie Monster Munch",
       "slug": "cookie-monster-munch",
       "summary": "It's fun! Ten different game levels challenge, entertain and reward children! Game levels progress from simple, noncompetitive games for younger children to fast and dynamic games for the older child. It's educational! COOKIE MONSTER MUNCH helps children practice pre-reading skills and encourages learning through play."
@@ -355,7 +355,7 @@
         "id": 17217,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/byzzyeclw3pxqs3fkkwg.jpg"
       },
-      "first_release_date": 441676800,
+      "firstReleaseDate": 441676800,
       "genres": [
         {
           "id": 5,
@@ -376,7 +376,7 @@
         "id": 54234,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/lotrnd0qzqqjgry0ajcr.jpg"
       },
-      "first_release_date": 1107216000,
+      "firstReleaseDate": 1107216000,
       "name": "Ultra SCSIcide",
       "slug": "ultra-scsicide",
       "summary": "SCSIcide is an original, fast-paced homebrew game released back in 2001 by Joe Grand of Pixels Past. In SCSIcide you play the role of a hard drive read head. As the different colored bits scroll by on the hard drive platter, you need to quickly read them in the correct order before you suffer a buffer underflow. As you complete each level, the data scrolls by more and more quickly! How far can you go? If you're a fan of Activision's Kaboom!, then you'll love SCSIcide. \n \nJoe Grand has spent some time recently updating SCSIcide and has released a new version of the game titled Ultra SCSIcide. This latest version of the game contains many improvements over the original: \n \nAdded support for joystick controllers. Controller type is automatically detected when you press the paddle or joystick fire button to start the game. \nFixed the flicker that used to occur at the beginning of each level. \nChanged background and data bit color palette to make bits easier to distinguish. \nReduced track size from 10 to 8 bits, for a more appropriate one byte per level. \nChanged speed increase per level - only two random data bits increase in speed each level. \nModified the sound and scoring routines to account for longer gameplay and higher levels. \nChanged title screen text and added GIS and Pixels Past logos. \nAdded a PAL version of the game."
@@ -387,7 +387,7 @@
         "id": 278113,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5yld.jpg"
       },
-      "first_release_date": 412905600,
+      "firstReleaseDate": 412905600,
       "genres": [
         {
           "id": 5,
@@ -404,7 +404,7 @@
         "id": 278070,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5yk6.jpg"
       },
-      "first_release_date": 391737600,
+      "firstReleaseDate": 391737600,
       "genres": [
         {
           "id": 13,
@@ -447,7 +447,7 @@
         "id": 54028,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/znyhpiwcthvlmpwg3wpa.jpg"
       },
-      "first_release_date": 367113600,
+      "firstReleaseDate": 367113600,
       "name": "Peter Penguin",
       "slug": "peter-penguin",
       "summary": "Peter Penguin is treasure-hunting in the eternal ice of the Arctic. But watch out! His pursuers, the snow monsters, are dogging his footsteps."
@@ -458,7 +458,7 @@
         "id": 14832,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/pfkj7uvhlu11lpniigmv.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 5,
@@ -479,7 +479,7 @@
         "id": 54773,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/hktvndfz3zwreb9rtkhs.jpg"
       },
-      "first_release_date": 412905600,
+      "firstReleaseDate": 412905600,
       "name": "Shootin' Gallery",
       "slug": "shootin-gallery",
       "summary": "Similar to the game Carnival, you must shoot targets and guard your ammunition supply."
@@ -490,7 +490,7 @@
         "id": 141895,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co31hj.jpg"
       },
-      "first_release_date": 1377907200,
+      "firstReleaseDate": 1377907200,
       "genres": [
         {
           "id": 8,
@@ -507,7 +507,7 @@
         "id": 161519,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3gmn.jpg"
       },
-      "first_release_date": 441676800,
+      "firstReleaseDate": 441676800,
       "genres": [
         {
           "id": 14,
@@ -524,7 +524,7 @@
         "id": 77343,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1nof.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 5,
@@ -544,7 +544,7 @@
         "id": 33944,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/vbq8akevzdlcycdmiwae.jpg"
       },
-      "first_release_date": 436492800,
+      "firstReleaseDate": 436492800,
       "genres": [
         {
           "id": 9,
@@ -561,7 +561,7 @@
         "id": 198298,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co490a.jpg"
       },
-      "first_release_date": 570672000,
+      "firstReleaseDate": 570672000,
       "name": "Task Force",
       "slug": "task-force"
     },
@@ -571,7 +571,7 @@
         "id": 14198,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/yyttoxymb7xktjchelvq.jpg"
       },
-      "first_release_date": 347068800,
+      "firstReleaseDate": 347068800,
       "genres": [
         {
           "id": 15,
@@ -588,7 +588,7 @@
         "id": 278114,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5yle.jpg"
       },
-      "first_release_date": 412905600,
+      "firstReleaseDate": 412905600,
       "genres": [
         {
           "id": 14,
@@ -604,7 +604,7 @@
         "id": 214965,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4lv9.jpg"
       },
-      "first_release_date": 1356912000,
+      "firstReleaseDate": 1356912000,
       "genres": [
         {
           "id": 9,
@@ -625,7 +625,7 @@
         "id": 15105,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/xxlrfqfkuspw1fs00zhc.jpg"
       },
-      "first_release_date": 441676800,
+      "firstReleaseDate": 441676800,
       "genres": [
         {
           "id": 5,
@@ -642,7 +642,7 @@
         "id": 65416,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/snws4amwdhgerity7neg.jpg"
       },
-      "first_release_date": 441676800,
+      "firstReleaseDate": 441676800,
       "name": "Forest",
       "slug": "forest"
     },
@@ -652,7 +652,7 @@
         "id": 14828,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/evuf0zpoqm81m7egfi3t.jpg"
       },
-      "first_release_date": 441676800,
+      "firstReleaseDate": 441676800,
       "genres": [
         {
           "id": 33,
@@ -660,7 +660,7 @@
         }
       ],
       "name": "Seaquest",
-      "rating": 69.81528875279339,
+      "rating": 69,
       "slug": "seaquest",
       "summary": "Your divers have collected treasure from the ocean floor. On their way back up to surface they are attacked by hostile fish, sharks and enemy submarines. It is, therefore, your task to collect your divers with your own submarine. While doing that you are not totally defenceless since your sub is able to fire bullets. But you have to watch out for your oxygen level which is shown at the bottom of the screen - once it is depleted, you die. So, every now and then you have to surface to replenish your oxygen supply. But you will lose one of the rescued divers if you surface with less than six frogmen onboard. After having rescued six divers, you move on to the next stage. As the game progresses, the then enemies become faster and more numerous."
     },
@@ -670,7 +670,7 @@
         "id": 47700,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/trh94qvnrqvf1yagzyux.jpg"
       },
-      "first_release_date": 381369600,
+      "firstReleaseDate": 381369600,
       "genres": [
         {
           "id": 14,
@@ -687,7 +687,7 @@
         "id": 15132,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/faczw3j0zaiy8cqk5igw.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 5,
@@ -708,7 +708,7 @@
         "id": 14847,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/djbmumaub4esewlowjqw.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 5,
@@ -733,7 +733,7 @@
         "id": 141907,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co31hv.jpg"
       },
-      "first_release_date": 441676800,
+      "firstReleaseDate": 441676800,
       "genres": [
         {
           "id": 31,
@@ -750,7 +750,7 @@
         "id": 278125,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5ylp.jpg"
       },
-      "first_release_date": 423360000,
+      "firstReleaseDate": 423360000,
       "genres": [
         {
           "id": 5,
@@ -767,7 +767,7 @@
         "id": 14235,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/unsqsl9ojtpbetjesm6m.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 5,
@@ -788,7 +788,7 @@
         "id": 278071,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5yk7.jpg"
       },
-      "first_release_date": 391910400,
+      "firstReleaseDate": 391910400,
       "genres": [
         {
           "id": 5,
@@ -805,7 +805,7 @@
         "id": 53123,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/ccghhfaytyo1pwbw2qxf.jpg"
       },
-      "first_release_date": 1114905600,
+      "firstReleaseDate": 1114905600,
       "genres": [
         {
           "id": 13,
@@ -822,7 +822,7 @@
         "id": 40810,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/kkepodojpfhqu260swpq.jpg"
       },
-      "first_release_date": 412905600,
+      "firstReleaseDate": 412905600,
       "genres": [
         {
           "id": 5,
@@ -839,7 +839,7 @@
         "id": 278194,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5ynm.jpg"
       },
-      "first_release_date": 1199059200,
+      "firstReleaseDate": 1199059200,
       "genres": [
         {
           "id": 5,
@@ -860,7 +860,7 @@
         "id": 235823,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co51yn.jpg"
       },
-      "first_release_date": 570672000,
+      "firstReleaseDate": 570672000,
       "genres": [
         {
           "id": 4,
@@ -901,7 +901,7 @@
         "id": 151390,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co38ta.jpg"
       },
-      "first_release_date": 242784000,
+      "firstReleaseDate": 242784000,
       "genres": [
         {
           "id": 10,
@@ -918,7 +918,7 @@
         "id": 14769,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/cdm3zchgiyji4dsfb53h.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 5,
@@ -935,7 +935,7 @@
         "id": 17390,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/olaicjoovfutqlfaexsg.jpg"
       },
-      "first_release_date": 441676800,
+      "firstReleaseDate": 441676800,
       "genres": [
         {
           "id": 5,
@@ -956,7 +956,7 @@
         "id": 142668,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3230.jpg"
       },
-      "first_release_date": 381369600,
+      "firstReleaseDate": 381369600,
       "genres": [
         {
           "id": 9,
@@ -977,7 +977,7 @@
         "id": 14792,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/ovovzq0p0x8o1bc1or63.jpg"
       },
-      "first_release_date": 378604800,
+      "firstReleaseDate": 378604800,
       "genres": [
         {
           "id": 33,
@@ -994,7 +994,7 @@
         "id": 227978,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4vwq.jpg"
       },
-      "first_release_date": 441676800,
+      "firstReleaseDate": 441676800,
       "genres": [
         {
           "id": 33,
@@ -1011,7 +1011,7 @@
         "id": 52996,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/rnmptih2cewiswodfdzm.jpg"
       },
-      "first_release_date": 447465600,
+      "firstReleaseDate": 447465600,
       "name": "Sorcerer's Apprentice",
       "slug": "sorcerers-apprentice",
       "summary": "Help! You are on a magical rescue mission. Your task? Help Mickey stop an army of brooms from flooding the Sorcerer's cavern with water. How? Stop the brooms, and stop the stars from creating more brooms. Turn meteors into empty buckets to bail out water. Where? Meet Mickey in the mountains. When? Immediately!"
@@ -1022,7 +1022,7 @@
         "id": 41117,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/nhgrifgeumkswxnizf9e.jpg"
       },
-      "first_release_date": 412905600,
+      "firstReleaseDate": 412905600,
       "genres": [
         {
           "id": 5,
@@ -1039,7 +1039,7 @@
         "id": 17665,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/cnqixbefzhg6npqle3wp.jpg"
       },
-      "first_release_date": 441676800,
+      "firstReleaseDate": 441676800,
       "genres": [
         {
           "id": 31,
@@ -1060,7 +1060,7 @@
         "id": 16833,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/qumfmlkrqmbybljklgfg.jpg"
       },
-      "first_release_date": 441676800,
+      "firstReleaseDate": 441676800,
       "genres": [
         {
           "id": 9,
@@ -1097,7 +1097,7 @@
         "id": 14887,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/aiy2bcuoxpurk0knoypb.jpg"
       },
-      "first_release_date": 441676800,
+      "firstReleaseDate": 441676800,
       "genres": [
         {
           "id": 8,
@@ -1118,7 +1118,7 @@
         "id": 16747,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/x4atm5buhgugf5toya02.jpg"
       },
-      "first_release_date": 441676800,
+      "firstReleaseDate": 441676800,
       "genres": [
         {
           "id": 5,
@@ -1139,7 +1139,7 @@
         "id": 218269,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4of1.jpg"
       },
-      "first_release_date": 283910400,
+      "firstReleaseDate": 283910400,
       "name": "Polo",
       "slug": "polo",
       "summary": "Developed as a promotional game for Ralph Lauren's Polo cologne.\n\nThe cart, box and manual are reproductions from 2002 with permission of programmer Carol Shaw."
@@ -1150,7 +1150,7 @@
         "id": 17666,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/rwpu5aigxpymhurznwte.jpg"
       },
-      "first_release_date": 441676800,
+      "firstReleaseDate": 441676800,
       "genres": [
         {
           "id": 5,
@@ -1171,7 +1171,7 @@
         "id": 54694,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/a0wq5rnzi4zsauf6orfh.jpg"
       },
-      "first_release_date": 391737600,
+      "firstReleaseDate": 391737600,
       "genres": [
         {
           "id": 9,
@@ -1188,7 +1188,7 @@
         "id": 72384,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1juo.jpg"
       },
-      "first_release_date": 1107216000,
+      "firstReleaseDate": 1107216000,
       "name": "2005 Minigame Multicart",
       "slug": "2005-minigame-multicart",
       "summary": "Atari 2600 fans Chris Walton (cd-w), Fred Quimby (batari), Bob Montgomery (vdub_bobby), and Zach Matley (Zach) submitted several 1K entries for the 2005 Minigame Competition. They have now teamed up to release their seven 1K games in a single 2005 Minigame Multicart, complete with an on-screen menu that allows easy selection of the games as well as instructions. \n \nThe included games are: Hunchy, Jetman, Nightrider, Zirconium, Rocket Command, M-4, and Marble Jumper"
@@ -1199,7 +1199,7 @@
         "id": 278118,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5yli.jpg"
       },
-      "first_release_date": 415324800,
+      "firstReleaseDate": 415324800,
       "name": "Mission Survive",
       "slug": "mission-survive",
       "summary": "Mission Survive is an Action game, published by Video Gems, which was released in 1983."
@@ -1210,7 +1210,7 @@
         "id": 17642,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/yv6kcdqmiuowwiuyc9pg.jpg"
       },
-      "first_release_date": 441676800,
+      "firstReleaseDate": 441676800,
       "genres": [
         {
           "id": 5,
@@ -1231,7 +1231,7 @@
         "id": 10443,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/al6f4hqikqbdwmxbrehb.jpg"
       },
-      "first_release_date": 441676800,
+      "firstReleaseDate": 441676800,
       "genres": [
         {
           "id": 9,
@@ -1252,7 +1252,7 @@
         "id": 182276,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3wn8.jpg"
       },
-      "first_release_date": 283910400,
+      "firstReleaseDate": 283910400,
       "genres": [
         {
           "id": 35,
@@ -1269,7 +1269,7 @@
         "id": 16837,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/icvprrhn72a6zd9dhn8b.jpg"
       },
-      "first_release_date": 441676800,
+      "firstReleaseDate": 441676800,
       "genres": [
         {
           "id": 5,
@@ -1294,7 +1294,7 @@
         "id": 15104,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/lk5syj1drjvzbkidueuq.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 8,
@@ -1315,7 +1315,7 @@
         "id": 181321,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3vwp.jpg"
       },
-      "first_release_date": 441676800,
+      "firstReleaseDate": 441676800,
       "genres": [
         {
           "id": 33,
@@ -1331,7 +1331,7 @@
         "id": 9045,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/ibir9fk4d5xrrkphmm4r.jpg"
       },
-      "first_release_date": 441676800,
+      "firstReleaseDate": 441676800,
       "genres": [
         {
           "id": 7,
@@ -1356,7 +1356,7 @@
         "id": 14826,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/gysloluhxd1xocw1ttb4.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 5,
@@ -1377,7 +1377,7 @@
         "id": 52046,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/ulbcvlzzmbmnvv87fjiv.jpg"
       },
-      "first_release_date": 381369600,
+      "firstReleaseDate": 381369600,
       "genres": [
         {
           "id": 33,
@@ -1394,7 +1394,7 @@
         "id": 278085,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5ykl.jpg"
       },
-      "first_release_date": 412905600,
+      "firstReleaseDate": 412905600,
       "name": "Spitfire Attack",
       "slug": "spitfire-attack",
       "summary": "Spitfire Attack is a flight simulator/target shooting game. Shoot down the enemy planes, and destroy various ground installations, including anti-aircraft guns that shoot at you. The game was packaged with the large Flight Command Controller, which was a glorified joystick that had the look of an aircraft machine gun."
@@ -1405,7 +1405,7 @@
         "id": 46952,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/gchasjyp3kgr3jzum9ug.jpg"
       },
-      "first_release_date": 412905600,
+      "firstReleaseDate": 412905600,
       "genres": [
         {
           "id": 5,
@@ -1422,7 +1422,7 @@
         "id": 214952,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4luw.jpg"
       },
-      "first_release_date": 1107216000,
+      "firstReleaseDate": 1107216000,
       "genres": [
         {
           "id": 33,
@@ -1439,7 +1439,7 @@
         "id": 53412,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/gc2qsdosdknocbhm9zgd.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 13,
@@ -1456,7 +1456,7 @@
         "id": 278117,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5ylh.jpg"
       },
-      "first_release_date": 413078400,
+      "firstReleaseDate": 413078400,
       "genres": [
         {
           "id": 10,
@@ -1473,7 +1473,7 @@
         "id": 10428,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/vm1ngk3i3n8u3ayftpwt.jpg"
       },
-      "first_release_date": 1293753600,
+      "firstReleaseDate": 1293753600,
       "genres": [
         {
           "id": 5,
@@ -1490,7 +1490,7 @@
         "id": 38874,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/ocjyd8enktwwpwiddtnh.jpg"
       },
-      "first_release_date": 1147305600,
+      "firstReleaseDate": 1147305600,
       "name": "Conquest of Mars",
       "slug": "conquest-of-mars",
       "summary": "In the year 4014, the planet Earth and the planet Mars are locked in a century-long war. The Martians have devised a plan to destroy Earth using the power from their latest weapon: the Destructo-Bomb!! The Martian forces have managed to construct five bombs and have placed them deep inside the Martian Caverns, awaiting the final command from their leader to attack!!! Do you have the skill to navigate to the depths of the Martian caverns, active the Destructo-Bombs, and escape before they explode? Good Luck! \n \nConquest of Mars is an accurate translation to the Atari 2600 of a popular Atari 8-bit computer title. Destroy the Martian rebellion by descending through the six caverns of Mars to activate the main energy reactors and escape to the surface before they blow up! Do you have the skill and quick reflexes required to descend into the Martian depths without being annihilated? And once you reach the bottom, can you make it out alive?"
@@ -1501,7 +1501,7 @@
         "id": 278093,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5ykt.jpg"
       },
-      "first_release_date": 412905600,
+      "firstReleaseDate": 412905600,
       "genres": [
         {
           "id": 8,
@@ -1518,7 +1518,7 @@
         "id": 278063,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5yjz.jpg"
       },
-      "first_release_date": 381369600,
+      "firstReleaseDate": 381369600,
       "genres": [
         {
           "id": 8,
@@ -1534,7 +1534,7 @@
         "id": 47103,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/d977a3driyj2nftex1iy.jpg"
       },
-      "first_release_date": 441676800,
+      "firstReleaseDate": 441676800,
       "name": "Smurfs Save the Day: Handy Smurf",
       "slug": "smurfs-save-the-day-handy-smurf",
       "summary": "A Smurfs game for the Atari VCS Voice Module. Teaches about shapes."
@@ -1545,7 +1545,7 @@
         "id": 2278,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/of1vs2qo8xxhdavli6xh.jpg"
       },
-      "first_release_date": 441676800,
+      "firstReleaseDate": 441676800,
       "genres": [
         {
           "id": 8,
@@ -1569,7 +1569,7 @@
         "id": 223881,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4sqx.jpg"
       },
-      "first_release_date": 581299200,
+      "firstReleaseDate": 581299200,
       "genres": [
         {
           "id": 5,
@@ -1586,7 +1586,7 @@
         "id": 10448,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/cknbbg7xu1okwyt1uvnv.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 33,
@@ -1603,7 +1603,7 @@
         "id": 221821,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4r5p.jpg"
       },
-      "first_release_date": 378691200,
+      "firstReleaseDate": 378691200,
       "genres": [
         {
           "id": 14,
@@ -1620,7 +1620,7 @@
         "id": 17674,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/argbibrad8egyvqzq8wq.jpg"
       },
-      "first_release_date": 441676800,
+      "firstReleaseDate": 441676800,
       "genres": [
         {
           "id": 33,
@@ -1637,7 +1637,7 @@
         "id": 238910,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co54ce.jpg"
       },
-      "first_release_date": 997488000,
+      "firstReleaseDate": 997488000,
       "genres": [
         {
           "id": 5,
@@ -1658,7 +1658,7 @@
         "id": 233969,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co50j5.jpg"
       },
-      "first_release_date": 441676800,
+      "firstReleaseDate": 441676800,
       "genres": [
         {
           "id": 33,
@@ -1675,7 +1675,7 @@
         "id": 174053,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3qat.jpg"
       },
-      "first_release_date": 441676800,
+      "firstReleaseDate": 441676800,
       "genres": [
         {
           "id": 5,
@@ -1683,7 +1683,7 @@
         }
       ],
       "name": "Astrowar",
-      "rating": 32.6884396544626,
+      "rating": 32,
       "slug": "astrowar",
       "summary": "Astrowar is an Action game, developed by Starsoft and published by Artic, which was cancelled before it was released."
     },
@@ -1693,7 +1693,7 @@
         "id": 73463,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1kon.jpg"
       },
-      "first_release_date": 570672000,
+      "firstReleaseDate": 570672000,
       "genres": [
         {
           "id": 14,
@@ -1710,7 +1710,7 @@
         "id": 15017,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/yphgrotapmlejamcwvyy.jpg"
       },
-      "first_release_date": 429667200,
+      "firstReleaseDate": 429667200,
       "genres": [
         {
           "id": 33,
@@ -1718,7 +1718,7 @@
         }
       ],
       "name": "Frostbite",
-      "rating": 68.0484007459279,
+      "rating": 68,
       "slug": "frostbite",
       "summary": "You're an Eskimo who wants to build an igloo to live in during the cold season. To do this, you must jump from ice-block to ice-block, while avoiding wildlife such as birds and crabs. Coming with contact with any of these will cause them to push you off the block and into the deadly water. Once you have built your igloo, you must enter it to proceed to the next level. Remember, you must build it before the temperature drops to 0°. You have four lives."
     },
@@ -1728,7 +1728,7 @@
         "id": 233970,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co50j6.jpg"
       },
-      "first_release_date": 725760000,
+      "firstReleaseDate": 725760000,
       "genres": [
         {
           "id": 9,
@@ -1753,7 +1753,7 @@
         "id": 26423,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/qbwveugnwojvhi4ztbul.jpg"
       },
-      "first_release_date": 423273600,
+      "firstReleaseDate": 423273600,
       "genres": [
         {
           "id": 31,
@@ -1770,7 +1770,7 @@
         "id": 16840,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/ipt1gpn52d0y2hm7o9ji.jpg"
       },
-      "first_release_date": 473299200,
+      "firstReleaseDate": 473299200,
       "genres": [
         {
           "id": 5,
@@ -1806,7 +1806,7 @@
         "id": 2722,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/rlbhm3gpeufs4injtx9u.jpg"
       },
-      "first_release_date": 441676800,
+      "firstReleaseDate": 441676800,
       "genres": [
         {
           "id": 31,
@@ -1823,7 +1823,7 @@
         "id": 16886,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/cfutymcedvugdzr5ejed.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 33,
@@ -1840,7 +1840,7 @@
         "id": 14081,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/bgn2kgcclafmaiq5w4xl.jpg"
       },
-      "first_release_date": 347068800,
+      "firstReleaseDate": 347068800,
       "genres": [
         {
           "id": 9,
@@ -1848,7 +1848,7 @@
         }
       ],
       "name": "Maze Craze",
-      "rating": 74.20599421914089,
+      "rating": 74,
       "slug": "maze-craze",
       "summary": "In Maze Craze, your goal is to be the first of two players to make it out of a maze! Each player controls a cop that starts on the left, and the first player to make it out the exit on the right wins. The game also includes of variety of options. The maze can be completely visible, completely invisible, or have just a few parts invisible. With invisible mazes you can optionally have the computer provide a sneak peak at the complete maze periodically. To make your task more challenging, one to five robbers may also be placed in the maze. If you are caught by one of the robbers, you will momentarily be stunned giving your opponent an advantage. You can also give your cop the ability to set up a blockade to confuse your opponent. This will look like a regular wall, however you can walk straight through it. The games speed can also be adjusted, from calculatingly slow to extremely fast."
     },
@@ -1858,7 +1858,7 @@
         "id": 53437,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/dqjhp9tuowtpekw7ukge.jpg"
       },
-      "first_release_date": 415324800,
+      "firstReleaseDate": 415324800,
       "genres": [
         {
           "id": 13,
@@ -1875,7 +1875,7 @@
         "id": 14836,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/bljxggfonxamditkntms.jpg"
       },
-      "first_release_date": 425865600,
+      "firstReleaseDate": 425865600,
       "genres": [
         {
           "id": 5,
@@ -1896,7 +1896,7 @@
         "id": 147749,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3605.jpg"
       },
-      "first_release_date": 628473600,
+      "firstReleaseDate": 628473600,
       "genres": [
         {
           "id": 5,
@@ -1913,7 +1913,7 @@
         "id": 15103,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/ewwjjcakskbnrrl9qn2d.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 5,
@@ -1933,7 +1933,7 @@
         "id": 95221,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co21h1.jpg"
       },
-      "first_release_date": 1135987200,
+      "firstReleaseDate": 1135987200,
       "name": "Wolfenstein VCS",
       "slug": "wolfenstein-vcs",
       "summary": "Wolfenstein VCS is a modified version of the game Venture."
@@ -1944,7 +1944,7 @@
         "id": 53246,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/yyvmcuarizkydyvxfxn5.jpg"
       },
-      "first_release_date": 412905600,
+      "firstReleaseDate": 412905600,
       "name": "Pharaoh's Curse",
       "slug": "pharaohs-curse"
     },
@@ -1954,7 +1954,7 @@
         "id": 215003,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4lwb.jpg"
       },
-      "first_release_date": 1421366400,
+      "firstReleaseDate": 1421366400,
       "genres": [
         {
           "id": 8,
@@ -1971,7 +1971,7 @@
         "id": 23121,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/uv3lzgoif6aoqwsbv3pi.jpg"
       },
-      "first_release_date": 381369600,
+      "firstReleaseDate": 381369600,
       "genres": [
         {
           "id": 5,
@@ -1984,7 +1984,7 @@
     },
     {
       "id": 40692,
-      "first_release_date": 862444800,
+      "firstReleaseDate": 862444800,
       "genres": [
         {
           "id": 13,
@@ -2001,7 +2001,7 @@
         "id": 17282,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/tmqlewh830uaofgskjod.jpg"
       },
-      "first_release_date": 441676800,
+      "firstReleaseDate": 441676800,
       "genres": [
         {
           "id": 5,
@@ -2030,7 +2030,7 @@
         "id": 51672,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/o5es90j2zd6gzqolnunm.jpg"
       },
-      "first_release_date": 662601600,
+      "firstReleaseDate": 662601600,
       "genres": [
         {
           "id": 10,
@@ -2051,7 +2051,7 @@
         "id": 51943,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/gixapzh3lutftirqynbl.jpg"
       },
-      "first_release_date": 283910400,
+      "firstReleaseDate": 283910400,
       "name": "Maze Craze: A Game of Cops 'n Robbers",
       "slug": "maze-craze-a-game-of-cops-n-robbers",
       "summary": "Maze Craze is a maze game with a few twists for the Atari 2600 for one or two players"
@@ -2062,7 +2062,7 @@
         "id": 10452,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/flxo18jjpa1etfvetvf8.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 5,
@@ -2083,7 +2083,7 @@
         "id": 278139,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5ym3.jpg"
       },
-      "first_release_date": 430963200,
+      "firstReleaseDate": 430963200,
       "name": "Save Our Ship",
       "slug": "save-our-ship",
       "summary": "You're the captain of a capital ship, sailing the Spanish Main. Suddenly you're attacked by hordes of ruthless, cut-throat Pirates. Dozens of them swarm aboard and only you, with your trusty cutlass, can Save Our Ship! You have to out-think, out maneuver and out-fight them all. Otherwise you're sunk!"
@@ -2094,7 +2094,7 @@
         "id": 17412,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/hpv2ffrvpi9tpj94mfsi.jpg"
       },
-      "first_release_date": 441676800,
+      "firstReleaseDate": 441676800,
       "genres": [
         {
           "id": 33,
@@ -2111,7 +2111,7 @@
         "id": 10464,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/qxhbtklninmerjwsc6ss.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 33,
@@ -2127,7 +2127,7 @@
         "id": 17391,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/yy0ps0e4xhcdmbeo1p5u.jpg"
       },
-      "first_release_date": 441676800,
+      "firstReleaseDate": 441676800,
       "genres": [
         {
           "id": 33,
@@ -2144,7 +2144,7 @@
         "id": 147392,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co35q8.jpg"
       },
-      "first_release_date": 394329600,
+      "firstReleaseDate": 394329600,
       "genres": [
         {
           "id": 5,
@@ -2161,7 +2161,7 @@
         "id": 29401,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/yxmerloaicmanyal2dvr.jpg"
       },
-      "first_release_date": 252374400,
+      "firstReleaseDate": 252374400,
       "genres": [
         {
           "id": 10,
@@ -2182,7 +2182,7 @@
         "id": 10466,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/jipntjideuikl5hhtfhz.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 5,
@@ -2203,7 +2203,7 @@
         "id": 55462,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/aqelnqjt41rrw5nhcmmn.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 33,
@@ -2220,7 +2220,7 @@
         "id": 112958,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2f5q.jpg"
       },
-      "first_release_date": 441676800,
+      "firstReleaseDate": 441676800,
       "genres": [
         {
           "id": 5,
@@ -2237,7 +2237,7 @@
         "id": 16842,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/rl4oklhtqfrzgxhzbac6.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 14,
@@ -2258,7 +2258,7 @@
         "id": 17001,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/lx27fqxjnabaaxbsnh4e.jpg"
       },
-      "first_release_date": 441676800,
+      "firstReleaseDate": 441676800,
       "genres": [
         {
           "id": 9,
@@ -2279,7 +2279,7 @@
         "id": 214951,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4luv.jpg"
       },
-      "first_release_date": 1250553600,
+      "firstReleaseDate": 1250553600,
       "genres": [
         {
           "id": 4,
@@ -2296,7 +2296,7 @@
         "id": 278097,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5ykx.jpg"
       },
-      "first_release_date": 412905600,
+      "firstReleaseDate": 412905600,
       "name": "Fox & Goat",
       "slug": "fox-and-goat"
     },
@@ -2306,7 +2306,7 @@
         "id": 52820,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/l2norq5ecu0p4mg0yvix.jpg"
       },
-      "first_release_date": 644284800,
+      "firstReleaseDate": 644284800,
       "genres": [
         {
           "id": 9,
@@ -2327,7 +2327,7 @@
         "id": 278175,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5yn3.jpg"
       },
-      "first_release_date": 1020211200,
+      "firstReleaseDate": 1020211200,
       "genres": [
         {
           "id": 13,
@@ -2344,7 +2344,7 @@
         "id": 278115,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5ylf.jpg"
       },
-      "first_release_date": 412905600,
+      "firstReleaseDate": 412905600,
       "name": "Dishaster",
       "slug": "dishaster"
     },
@@ -2354,7 +2354,7 @@
         "id": 277927,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5yg7.jpg"
       },
-      "first_release_date": 322272000,
+      "firstReleaseDate": 322272000,
       "genres": [
         {
           "id": 5,
@@ -2371,7 +2371,7 @@
         "id": 94013,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co20jh.jpg"
       },
-      "first_release_date": 381369600,
+      "firstReleaseDate": 381369600,
       "genres": [
         {
           "id": 14,
@@ -2388,7 +2388,7 @@
         "id": 10537,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/b5rtuwkyzgm320421g7j.jpg"
       },
-      "first_release_date": 441676800,
+      "firstReleaseDate": 441676800,
       "genres": [
         {
           "id": 33,
@@ -2405,7 +2405,7 @@
         "id": 278161,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5ymp.jpg"
       },
-      "first_release_date": 1020211200,
+      "firstReleaseDate": 1020211200,
       "genres": [
         {
           "id": 31,
@@ -2422,7 +2422,7 @@
         "id": 16875,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/cb1dxnerwa1oxz6qoh3d.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 5,
@@ -2443,7 +2443,7 @@
         "id": 29416,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/jjgpbkddab7xuidnhoxj.jpg"
       },
-      "first_release_date": 278726400,
+      "firstReleaseDate": 278726400,
       "genres": [
         {
           "id": 9,
@@ -2460,7 +2460,7 @@
         "id": 52550,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/omoj0yuw5k87gnyrjd2p.jpg"
       },
-      "first_release_date": 436492800,
+      "firstReleaseDate": 436492800,
       "genres": [
         {
           "id": 30,
@@ -2477,7 +2477,7 @@
         "id": 254950,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5gpy.jpg"
       },
-      "first_release_date": 412905600,
+      "firstReleaseDate": 412905600,
       "name": "Obelix",
       "slug": "obelix--1",
       "summary": "Obelix is a game where you simultaneously play as Asterix and Obelix maintaining their favorite Gaulish sport of thumping the living daylights out of Roman soldiers. The objective of the game is to help Asterix stun Roman soldiers simply by running into them, and they turn white from blue, while you command good ol'Obelix to throws his oversized Menhirs down at stunned Romans with a splat."
@@ -2488,7 +2488,7 @@
         "id": 14831,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/wwiui39alvfzdk1ibqud.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 24,
@@ -2509,7 +2509,7 @@
         "id": 278076,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5ykc.jpg"
       },
-      "first_release_date": 404956800,
+      "firstReleaseDate": 404956800,
       "genres": [
         {
           "id": 5,
@@ -2526,7 +2526,7 @@
         "id": 52180,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/rm1wefxxf7puwvuyijft.jpg"
       },
-      "first_release_date": 949363200,
+      "firstReleaseDate": 949363200,
       "genres": [
         {
           "id": 15,
@@ -2547,7 +2547,7 @@
         "id": 14236,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/kcgdcpfvm2fzhdvdxnhz.jpg"
       },
-      "first_release_date": 378604800,
+      "firstReleaseDate": 378604800,
       "genres": [
         {
           "id": 5,
@@ -2568,7 +2568,7 @@
         "id": 14869,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/poloups9nllwh9fxnltd.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 5,
@@ -2599,7 +2599,7 @@
         "id": 239319,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co54nr.jpg"
       },
-      "first_release_date": 383788800,
+      "firstReleaseDate": 383788800,
       "genres": [
         {
           "id": 9,
@@ -2611,7 +2611,7 @@
         }
       ],
       "name": "Pac-Man",
-      "rating": 79.40667519789321,
+      "rating": 79,
       "slug": "pac-man--1",
       "summary": "The player controls Pac-Man through a maze, eating pac-dots (also called pellets). When all pac-dots are eaten, Pac-Man is taken to the next stage. Between some stages one of three intermission animations plays. Four enemies (Blinky, Pinky, Inky and Clyde) roam the maze, trying to catch Pac-Man. If an enemy touches Pac-Man, a life is lost and the Pac-Man itself withers and dies. When all lives have been lost, the game ends. Pac-Man is awarded a single bonus life at 10,000 points by default.\n\nNear the corners of the maze are four larger, flashing dots known as power pellets that provide Pac-Man with the temporary ability to eat the enemies. The enemies turn deep blue, reverse direction and usually move more slowly. When an enemy is eaten, its eyes remain and return to the center box where it is regenerated in its normal color. Blue enemies flash white to signal that they are about to become dangerous again and the length of time for which the enemies remain vulnerable varies from one stage to the next, generally becoming shorter as the game progresses. In later stages, the enemies go straight to flashing, bypassing blue, which means that they can only be eaten for a short amount of time, although they still reverse direction when a power pellet is eaten; in even later stages, the ghosts do not become edible (i.e., they do not change color and still make Pacman lose a life on contact), but they still reverse direction."
     },
@@ -2621,7 +2621,7 @@
         "id": 269012,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5rkk.jpg"
       },
-      "first_release_date": 423532800,
+      "firstReleaseDate": 423532800,
       "genres": [
         {
           "id": 8,
@@ -2642,7 +2642,7 @@
         "id": 278180,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5yn8.jpg"
       },
-      "first_release_date": 1107216000,
+      "firstReleaseDate": 1107216000,
       "name": "FlapPing",
       "slug": "flapping",
       "summary": "\"The future of gaming can be summed up in two words -- Pong and Joust.\" ...with these prophetic words on rec.games.video.classic, \"Otter\" planted the seeds for the game you see before you now. FlapPing, at its core, is an oldschool Pong Deathmatch... but with a \"Flap\" button. Each player flaps furiously to prevent the opponent from getting a ball past and scoring a point--first to 10 points win (3 points in a \"poorlords\" game).\n\nFlapPing features two primary game variations, a \"classic pong\" mode which resembles the classic Pong arcade game, and \"poorlords\", where each player must defend a wall in a manner similar to the arcade game Warlords. You can play another human, or take on all the AI might of your Atari 2600. The Pterodactyl of Joust also makes an appearance in FlapPing, adding an unpredictable element to the gameplay!\n\nFlapPing is descended from JoustPong, the name Kirk Israel originally chose for his original homebrew game. Unfortunately, this name stepped on the Pong trademark owned by Atari, and in early 2005 he renamed the game top FlapPing so it could once again be sold in the AtariAge Store, complete with a new label and manual designed by Dave Exton."
@@ -2653,7 +2653,7 @@
         "id": 52071,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/tcivymgaf6qs5qewgphj.jpg"
       },
-      "first_release_date": 436492800,
+      "firstReleaseDate": 436492800,
       "genres": [
         {
           "id": 9,
@@ -2693,7 +2693,7 @@
         "id": 18661,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/ts9bvuwnsqd86yib0txu.jpg"
       },
-      "first_release_date": 441676800,
+      "firstReleaseDate": 441676800,
       "genres": [
         {
           "id": 33,
@@ -2710,7 +2710,7 @@
         "id": 65417,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/orttqjoelfccgo2d9isd.jpg"
       },
-      "first_release_date": 473299200,
+      "firstReleaseDate": 473299200,
       "name": "Mind Maze",
       "slug": "mind-maze--1"
     },
@@ -2720,7 +2720,7 @@
         "id": 213922,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4l2a.jpg"
       },
-      "first_release_date": 410227200,
+      "firstReleaseDate": 410227200,
       "genres": [
         {
           "id": 5,
@@ -2737,7 +2737,7 @@
         "id": 41118,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/jqw7me0ffbwvekn7vw2b.jpg"
       },
-      "first_release_date": 412905600,
+      "firstReleaseDate": 412905600,
       "genres": [
         {
           "id": 5,
@@ -2754,7 +2754,7 @@
         "id": 51417,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/gx7nm9r0znxt529ytvrz.jpg"
       },
-      "first_release_date": 423532800,
+      "firstReleaseDate": 423532800,
       "genres": [
         {
           "id": 5,
@@ -2771,7 +2771,7 @@
         "id": 54087,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/vq0ezbzde8nvqtwqpluk.jpg"
       },
-      "first_release_date": 1054425600,
+      "firstReleaseDate": 1054425600,
       "genres": [
         {
           "id": 15,
@@ -2792,7 +2792,7 @@
         "id": 16887,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/essgvbvar0mbgoqs39xh.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 15,
@@ -2812,7 +2812,7 @@
         "id": 16888,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/vjcofwouuoxmfujft2on.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 5,
@@ -2833,7 +2833,7 @@
         "id": 278109,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5yl9.jpg"
       },
-      "first_release_date": 381369600,
+      "firstReleaseDate": 381369600,
       "genres": [
         {
           "id": 5,
@@ -2850,7 +2850,7 @@
         "id": 278067,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5yk3.jpg"
       },
-      "first_release_date": 389059200,
+      "firstReleaseDate": 389059200,
       "genres": [
         {
           "id": 9,
@@ -2867,7 +2867,7 @@
         "id": 10450,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/allhi0y7iuvl8tb9y0gw.jpg"
       },
-      "first_release_date": 441676800,
+      "firstReleaseDate": 441676800,
       "genres": [
         {
           "id": 8,
@@ -2888,7 +2888,7 @@
         "id": 278103,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5yl3.jpg"
       },
-      "first_release_date": 412905600,
+      "firstReleaseDate": 412905600,
       "name": "Mr. Postman",
       "slug": "mr-postman"
     },
@@ -2898,7 +2898,7 @@
         "id": 37382,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/bzkm93foobju18zdsrnv.jpg"
       },
-      "first_release_date": 412905600,
+      "firstReleaseDate": 412905600,
       "genres": [
         {
           "id": 5,
@@ -2915,7 +2915,7 @@
         "id": 51818,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/hd615vl8hwgvmnhqzmyn.jpg"
       },
-      "first_release_date": 412905600,
+      "firstReleaseDate": 412905600,
       "genres": [
         {
           "id": 5,
@@ -2932,7 +2932,7 @@
         "id": 138933,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2z79.jpg"
       },
-      "first_release_date": 381369600,
+      "firstReleaseDate": 381369600,
       "genres": [
         {
           "id": 8,
@@ -2949,7 +2949,7 @@
         "id": 278084,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5ykk.jpg"
       },
-      "first_release_date": 412905600,
+      "firstReleaseDate": 412905600,
       "name": "Earth Attack",
       "slug": "earth-attack"
     },
@@ -2959,7 +2959,7 @@
         "id": 278077,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5ykd.jpg"
       },
-      "first_release_date": 404956800,
+      "firstReleaseDate": 404956800,
       "name": "Demolition Herby",
       "slug": "demolition-herby",
       "summary": "Demolition Herby is basically the same as Amidar by Parker Brothers', though in this case, you control a car that's being chased by other cars. When you drive around a box, it fills in. Fill in all of the boxes before you run out of gas or crash into another car. The other cars can also erase the work you've done. If you're in a tight spot, hit the button to shift into gas-guzzlin' overdrive. As the game progresses, the speed and intelligence of the other drivers increase."
@@ -2970,7 +2970,7 @@
         "id": 278083,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5ykj.jpg"
       },
-      "first_release_date": 412905600,
+      "firstReleaseDate": 412905600,
       "name": "Laser Volley",
       "slug": "laser-volley"
     },
@@ -2980,7 +2980,7 @@
         "id": 278087,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5ykn.jpg"
       },
-      "first_release_date": 412905600,
+      "firstReleaseDate": 412905600,
       "name": "A Misteryous Thief",
       "slug": "a-misteryous-thief",
       "summary": "A Mysterious Thief foi cancelado antes de seu lançamento. Nele o jogador controla um ladrão, que deve roubar o maior número de casas possíveis, sem ser atingido por nenhum inimigo ou descoberto pelos moradores.\nDentro de um sistema de plataformas, o jogador deve alcançar a linha roxa para poder subir ou descer os andares. Mas cuidado, pois diversos inimigos irão aparecer para lhe atrapalhar.\nA Mysterious Thief foi cancelado antes de seu lançamento, sendo possível jogar apenas a versão protótipo. Seu objetivo é pegar os itens que aparecem nas janelas, mas a tarefa não é fácil, já que você deve desviar de cães e das pessoas do apartamento."
@@ -2991,7 +2991,7 @@
         "id": 278080,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5ykg.jpg"
       },
-      "first_release_date": 412905600,
+      "firstReleaseDate": 412905600,
       "genres": [
         {
           "id": 5,
@@ -3008,7 +3008,7 @@
         "id": 278089,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5ykp.jpg"
       },
-      "first_release_date": 412905600,
+      "firstReleaseDate": 412905600,
       "genres": [
         {
           "id": 14,
@@ -3025,7 +3025,7 @@
         "id": 14203,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/emhegg405ffylkyklxdn.jpg"
       },
-      "first_release_date": 347068800,
+      "firstReleaseDate": 347068800,
       "genres": [
         {
           "id": 14,
@@ -3042,7 +3042,7 @@
         "id": 278086,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5ykm.jpg"
       },
-      "first_release_date": 412905600,
+      "firstReleaseDate": 412905600,
       "name": "Challenge of Nexar",
       "slug": "challenge-of-nexar",
       "summary": "You are trying to become a Spectra-Warrior. To do this, you must fly through the levels of warp zones, destroying radioactive beacons. The higher the level, the more you need to destroy. These beacons are guarded by impact exploding saucers. You can destroy these saucers for points or avoid them. When you destroy a saucer or beacon, do not remain in the same place as the debris will collide with you. You have ninety-nine seconds to destroy the number of beacons indicated by the number on the bottom right of the screen per level."
@@ -3053,7 +3053,7 @@
         "id": 14870,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/ghdyw2uzhp7ruinsjfxc.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 33,
@@ -3070,7 +3070,7 @@
         "id": 109400,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2cew.jpg"
       },
-      "first_release_date": 1199059200,
+      "firstReleaseDate": 1199059200,
       "genres": [
         {
           "id": 33,
@@ -3087,7 +3087,7 @@
         "id": 209667,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4hs3.jpg"
       },
-      "first_release_date": 394329600,
+      "firstReleaseDate": 394329600,
       "genres": [
         {
           "id": 8,
@@ -3108,7 +3108,7 @@
         "id": 14838,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/isqgeqksyjuqfw9l1yqc.jpg"
       },
-      "first_release_date": 1072828800,
+      "firstReleaseDate": 1072828800,
       "genres": [
         {
           "id": 5,
@@ -3129,7 +3129,7 @@
         "id": 14858,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/vjj0kzapeznejredpb5w.jpg"
       },
-      "first_release_date": 441676800,
+      "firstReleaseDate": 441676800,
       "genres": [
         {
           "id": 5,
@@ -3150,7 +3150,7 @@
         "id": 278106,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5yl6.jpg"
       },
-      "first_release_date": 412905600,
+      "firstReleaseDate": 412905600,
       "name": "Piece O'Cake",
       "slug": "piece-ocake",
       "summary": "Piece Of Cake?--no way!! So you thought your first day on the job was going to be easy? Well, you not only have to learn the fine art of baking cakes, but you also have to master it in a big hurry. This is a production operation, and business is booming! It's actually a very simple job--at first. You simply take a freshly baked cake from the oven and drop it on a platter which is moving on a conveyor belt. Top that with a cherry, and you will be rewarded for your artistic endeavors. You must stack them correctly however, or--splat!! As your skill progresses, so does the conveyor speed, so keep cool, and try not to earn the dubious title of \"butterfingers.\" Being a top notch bakery chef requires adeptness and a calm temperament, so if you can't stand the heat, get out of the kitchen!"
@@ -3161,7 +3161,7 @@
         "id": 15130,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/pcxq87uqhhyuwrmyqwfw.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 5,
@@ -3182,7 +3182,7 @@
         "id": 278112,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5ylc.jpg"
       },
-      "first_release_date": 412905600,
+      "firstReleaseDate": 412905600,
       "genres": [
         {
           "id": 5,
@@ -3199,7 +3199,7 @@
         "id": 161505,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3gm9.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "name": "Dragon Defender",
       "slug": "dragon-defender"
     },
@@ -3209,7 +3209,7 @@
         "id": 273747,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5v83.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 5,
@@ -3234,7 +3234,7 @@
         "id": 278116,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5ylg.jpg"
       },
-      "first_release_date": 412905600,
+      "firstReleaseDate": 412905600,
       "name": "Ground Zero",
       "slug": "ground-zero"
     },
@@ -3244,7 +3244,7 @@
         "id": 26978,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/fv0n5wqysvthiukok6c3.jpg"
       },
-      "first_release_date": 381369600,
+      "firstReleaseDate": 381369600,
       "name": "Word Zapper",
       "slug": "word-zapper",
       "summary": "Word Zapper is a one or two-player, full color, action game with 24 variations, designed to be played on the ATARI (R) Video Computer System (TM) or Sears Video Arcade. \n \nThe Joystick Controller links you with a most profound vehicle of amusement, the rotary wing Word Zapper. It is armed with vertical and horizontal firing lasers and capable of incredible maneuverability. \n \nOpposing you is the Scroll -- a diabolic device designed to wear out the wrist an boggle the mind. The Scroll parades the alphabet across the screen, taunting you to duplicate a word or scrambled letters flashed at the bottom of the screen. \n \nYou must shoot each letter in perfect order, and you must match three words or letter combinations within 99 seconds. \n \nSounds easy? Wait until you meet the Scroll's friend, the Asteroids."
@@ -3255,7 +3255,7 @@
         "id": 278119,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5ylj.jpg"
       },
-      "first_release_date": 415324800,
+      "firstReleaseDate": 415324800,
       "name": "Kamikaze Saucers",
       "slug": "kamikaze-saucers",
       "summary": "Your ship can move left or right but it does not move in a smooth scrolling fashion. Rather, it moves into one of several preset positions. When your ships is in the center of the screen, it fires directly upwards. As it moves towards the left or right, the firing angle adjusts accordingly with the aim point being the top middle of the screen."
@@ -3266,7 +3266,7 @@
         "id": 278120,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5ylk.jpg"
       },
-      "first_release_date": 420595200,
+      "firstReleaseDate": 420595200,
       "genres": [
         {
           "id": 13,
@@ -3283,7 +3283,7 @@
         "id": 278123,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5yln.jpg"
       },
-      "first_release_date": 423273600,
+      "firstReleaseDate": 423273600,
       "name": "Scuba Diver",
       "slug": "scuba-diver--1",
       "summary": "A game where you must dive deep into the sea to retrieve hidden treasures. Caution: these waters are infested with creatures."
@@ -3294,7 +3294,7 @@
         "id": 55581,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/ieifnbebopdv1xs0cgmu.jpg"
       },
-      "first_release_date": 1138752000,
+      "firstReleaseDate": 1138752000,
       "name": "Medieval Mayhem",
       "slug": "medieval-mayhem",
       "summary": "Fans of the popular four-player Atari 2600 game Warlords (itself based on an arcade game of the same name) will be happy to learn that 2600 enthusiast Darrell Spice Jr. has created a new 2600 homebrew titled Medieval Mayhem, an updated take on Warlords. While the original version from Atari is still a blast to play, Medieval Mayhem adds arcade features such as the launch dragon, multiple fireballs and a level of polish missing from the original 2600 release. It also includes a menu to select options before starting the game. Medieval Mayhem is a frenetic multi-player game that you can enjoy against your friends (up to four people may play) or against the computer AI!"
@@ -3305,7 +3305,7 @@
         "id": 17703,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/xkkwg7pm0y4xdnquvsla.jpg"
       },
-      "first_release_date": 441676800,
+      "firstReleaseDate": 441676800,
       "genres": [
         {
           "id": 33,
@@ -3322,7 +3322,7 @@
         "id": 278126,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5ylq.jpg"
       },
-      "first_release_date": 423619200,
+      "firstReleaseDate": 423619200,
       "genres": [
         {
           "id": 9,
@@ -3343,7 +3343,7 @@
         "id": 278124,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5ylo.jpg"
       },
-      "first_release_date": 423273600,
+      "firstReleaseDate": 423273600,
       "genres": [
         {
           "id": 31,
@@ -3360,7 +3360,7 @@
         "id": 278129,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5ylt.jpg"
       },
-      "first_release_date": 423532800,
+      "firstReleaseDate": 423532800,
       "genres": [
         {
           "id": 10,
@@ -3377,7 +3377,7 @@
         "id": 278133,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5ylx.jpg"
       },
-      "first_release_date": 430704000,
+      "firstReleaseDate": 430704000,
       "genres": [
         {
           "id": 31,
@@ -3394,7 +3394,7 @@
         "id": 278137,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5ym1.jpg"
       },
-      "first_release_date": 428803200,
+      "firstReleaseDate": 428803200,
       "name": "Farmyard Fun",
       "slug": "farmyard-fun",
       "summary": "Farmyard Fun is an Action game, published by Suntek, which was released in Europe in 1983."
@@ -3405,7 +3405,7 @@
         "id": 278147,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5ymb.jpg"
       },
-      "first_release_date": 441763200,
+      "firstReleaseDate": 441763200,
       "name": "Xonox - Ghost Manor/Spike's Peak",
       "slug": "xonox-ghost-manor-slash-spikes-peak",
       "summary": "As one of the Xonox \"Double Ender\" cartridges, this features Ghost Manor and Spike's Peak. Each of the two games was released separately, though it's generally more common to find them in this form. This particular double-ender is the most common to feature either of these games."
@@ -3416,7 +3416,7 @@
         "id": 278143,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5ym7.jpg"
       },
-      "first_release_date": 441676800,
+      "firstReleaseDate": 441676800,
       "genres": [
         {
           "id": 5,
@@ -3437,7 +3437,7 @@
         "id": 278155,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5ymj.jpg"
       },
-      "first_release_date": 539136000,
+      "firstReleaseDate": 539136000,
       "genres": [
         {
           "id": 31,
@@ -3454,7 +3454,7 @@
         "id": 55814,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/lfsrbkt34cdojt5ouyoq.jpg"
       },
-      "first_release_date": 412905600,
+      "firstReleaseDate": 412905600,
       "genres": [
         {
           "id": 10,
@@ -3470,7 +3470,7 @@
         "id": 278152,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5ymg.jpg"
       },
-      "first_release_date": 454896000,
+      "firstReleaseDate": 454896000,
       "genres": [
         {
           "id": 31,
@@ -3487,7 +3487,7 @@
         "id": 278162,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5ymq.jpg"
       },
-      "first_release_date": 957139200,
+      "firstReleaseDate": 957139200,
       "genres": [
         {
           "id": 9,
@@ -3504,7 +3504,7 @@
         "id": 278166,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5ymu.jpg"
       },
-      "first_release_date": 833673600,
+      "firstReleaseDate": 833673600,
       "genres": [
         {
           "id": 9,
@@ -3525,7 +3525,7 @@
         "id": 16957,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/a6ofmoxixshlez0m9f7z.jpg"
       },
-      "first_release_date": 441676800,
+      "firstReleaseDate": 441676800,
       "genres": [
         {
           "id": 5,
@@ -3546,7 +3546,7 @@
         "id": 278173,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5yn1.jpg"
       },
-      "first_release_date": 997488000,
+      "firstReleaseDate": 997488000,
       "name": "Venture II",
       "slug": "venture-ii",
       "summary": "Venture II was created by Tim Snider as a sequel to the classic game Venture. Only 24 copies of Venture II were produced. The first four carts were part of a pre-production run so Tim could get the manufacturing process fine tuned. Those first four are marked with Greek letters on the label. Tim then created 20 numbered copies of Venture II which he made available privately at the 2001 Classic Gaming Expo. One copy of Venture II sold at the CGE2K1 auction and went for over $200. Tim created perhaps the most extravagant packaging seen for a self-published title at the time--the game was delivered in a hand-crafted, miniature treasure chest, which opened to reveal the cartridge (with numbered label) and a manual, surrounded by elegant, gold leaf paper.\n\nIf you'd like to purchase a copy of Venture II (sans the fancy treasure chest packaging), you can do so in the AtariAge Store. Included is a beautifully illustrated twelve page manual by Dale Crum."
@@ -3557,7 +3557,7 @@
         "id": 278177,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5yn5.jpg"
       },
-      "first_release_date": 1083369600,
+      "firstReleaseDate": 1083369600,
       "name": "Swoops!",
       "slug": "swoops",
       "summary": "SWOOPS! is a collection of three 1K minigames that Thomas Jentzsch (author of Thrust+ Platinum) submitted in the 2004 Minigame Competition. Two of the games in this collection won first and second place in the 1K competition: Cave 1K won the category, and Splatform came in second place. All three of these games offer addicting gameplay that will keep you coming back for me! SWOOPS! contains a menu that allows you to select which game to play, as well as a \"3-Athlon\" mode that allows you to play all three games in succession."
@@ -3568,7 +3568,7 @@
         "id": 278178,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5yn6.jpg"
       },
-      "first_release_date": 1107216000,
+      "firstReleaseDate": 1107216000,
       "genres": [
         {
           "id": 15,
@@ -3585,7 +3585,7 @@
         "id": 278190,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5yni.jpg"
       },
-      "first_release_date": 1170288000,
+      "firstReleaseDate": 1170288000,
       "genres": [
         {
           "id": 8,
@@ -3606,7 +3606,7 @@
         "id": 278186,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5yne.jpg"
       },
-      "first_release_date": 1167609600,
+      "firstReleaseDate": 1167609600,
       "genres": [
         {
           "id": 9,
@@ -3623,7 +3623,7 @@
         "id": 278185,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5ynd.jpg"
       },
-      "first_release_date": 1159660800,
+      "firstReleaseDate": 1159660800,
       "genres": [
         {
           "id": 8,
@@ -3644,7 +3644,7 @@
         "id": 278188,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5yng.jpg"
       },
-      "first_release_date": 1170288000,
+      "firstReleaseDate": 1170288000,
       "genres": [
         {
           "id": 9,
@@ -3665,7 +3665,7 @@
         "id": 278192,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5ynk.jpg"
       },
-      "first_release_date": 1238889600,
+      "firstReleaseDate": 1238889600,
       "genres": [
         {
           "id": 33,
@@ -3682,7 +3682,7 @@
         "id": 278092,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5yks.jpg"
       },
-      "first_release_date": 412905600,
+      "firstReleaseDate": 412905600,
       "genres": [
         {
           "id": 13,
@@ -3703,7 +3703,7 @@
         "id": 52161,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/vmknwhiqcaqwwbrqbekz.jpg"
       },
-      "first_release_date": 398131200,
+      "firstReleaseDate": 398131200,
       "genres": [
         {
           "id": 5,
@@ -3720,7 +3720,7 @@
         "id": 16741,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/etbpbouulgpiiiy2u4lm.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 31,
@@ -3741,7 +3741,7 @@
         "id": 278196,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5yno.jpg"
       },
-      "first_release_date": 1493683200,
+      "firstReleaseDate": 1493683200,
       "genres": [
         {
           "id": 14,
@@ -3758,7 +3758,7 @@
         "id": 18779,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/jlu6e02byueu9jkrx0gs.jpg"
       },
-      "first_release_date": 473299200,
+      "firstReleaseDate": 473299200,
       "genres": [
         {
           "id": 31,
@@ -3779,7 +3779,7 @@
         "id": 278140,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5ym4.jpg"
       },
-      "first_release_date": 439084800,
+      "firstReleaseDate": 439084800,
       "name": "Immies & Aggies",
       "slug": "immies-and-aggies",
       "summary": "Immies & Aggies is an legal reproduction of a prototype game from 1983 that was later released by Hozer.."
@@ -3790,7 +3790,7 @@
         "id": 278153,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5ymh.jpg"
       },
-      "first_release_date": 461116800,
+      "firstReleaseDate": 461116800,
       "genres": [
         {
           "id": 5,
@@ -3807,7 +3807,7 @@
         "id": 51235,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/qzdz9b6h3sbqye8almgl.jpg"
       },
-      "first_release_date": 431222400,
+      "firstReleaseDate": 431222400,
       "genres": [
         {
           "id": 31,
@@ -3824,7 +3824,7 @@
         "id": 148662,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co36pi.jpg"
       },
-      "first_release_date": 604713600,
+      "firstReleaseDate": 604713600,
       "genres": [
         {
           "id": 10,
@@ -3845,7 +3845,7 @@
         "id": 17413,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/kvucw2wu9jx28dvucnbb.jpg"
       },
-      "first_release_date": 441676800,
+      "firstReleaseDate": 441676800,
       "genres": [
         {
           "id": 5,
@@ -3866,7 +3866,7 @@
         "id": 17215,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/hjaoqjsnvd1oklk8lyvl.jpg"
       },
-      "first_release_date": 441676800,
+      "firstReleaseDate": 441676800,
       "genres": [
         {
           "id": 5,
@@ -3887,7 +3887,7 @@
         "id": 213920,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4l28.jpg"
       },
-      "first_release_date": 404956800,
+      "firstReleaseDate": 404956800,
       "genres": [
         {
           "id": 33,
@@ -3914,7 +3914,7 @@
         "id": 278176,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5yn4.jpg"
       },
-      "first_release_date": 1072828800,
+      "firstReleaseDate": 1072828800,
       "genres": [
         {
           "id": 33,
@@ -3931,7 +3931,7 @@
         "id": 278091,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5ykr.jpg"
       },
-      "first_release_date": 412905600,
+      "firstReleaseDate": 412905600,
       "genres": [
         {
           "id": 10,
@@ -3948,7 +3948,7 @@
         "id": 278068,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5yk4.jpg"
       },
-      "first_release_date": 391737600,
+      "firstReleaseDate": 391737600,
       "genres": [
         {
           "id": 13,
@@ -3965,7 +3965,7 @@
         "id": 278096,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5ykw.jpg"
       },
-      "first_release_date": 412905600,
+      "firstReleaseDate": 412905600,
       "genres": [
         {
           "id": 31,
@@ -3981,7 +3981,7 @@
         "id": 51509,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/m9qplkwew2ickyh1vwe2.jpg"
       },
-      "first_release_date": 360201600,
+      "firstReleaseDate": 360201600,
       "genres": [
         {
           "id": 9,
@@ -3998,7 +3998,7 @@
         "id": 95222,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co21h2.jpg"
       },
-      "first_release_date": 1149897600,
+      "firstReleaseDate": 1149897600,
       "name": "Wolfenstein VCS: The Next Mission",
       "slug": "wolfenstein-vcs-the-next-mission",
       "summary": "Wolfenstein VCS: The Next Mission is a updated version of the game Wolfenstein VCS, which was a modified version of the game Venture."
@@ -4009,7 +4009,7 @@
         "id": 278082,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5yki.jpg"
       },
-      "first_release_date": 412905600,
+      "firstReleaseDate": 412905600,
       "genres": [
         {
           "id": 5,
@@ -4022,7 +4022,7 @@
     },
     {
       "id": 40770,
-      "first_release_date": 896659200,
+      "firstReleaseDate": 896659200,
       "genres": [
         {
           "id": 14,
@@ -4043,7 +4043,7 @@
         "id": 29410,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/zqq0tyu6g7r3ybxswqq0.jpg"
       },
-      "first_release_date": 378604800,
+      "firstReleaseDate": 378604800,
       "genres": [
         {
           "id": 35,
@@ -4060,7 +4060,7 @@
         "id": 13439,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/un2moq3v0deojiywsx54.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 33,
@@ -4068,7 +4068,7 @@
         }
       ],
       "name": "Alien",
-      "rating": 72.9009728655827,
+      "rating": 72,
       "slug": "alien",
       "summary": "Fox Video Games made the first leap into licensing the Alien property for video games with what was essentially a Pac-Man clone skinned with elements from the 1979 film. Players controlled a human collecting Alien eggs (dots) and small planet and spaceship symbols (fruits) in a maze abroad the USCSS Nostromo while avoiding Alien drones (ghosts). \n \nDrones could be killed by shooting them with a flamethrower or collecting symbols that would stun them (flashing dots)."
     },
@@ -4078,7 +4078,7 @@
         "id": 15035,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/iyvzactyyv742ivsdhat.jpg"
       },
-      "first_release_date": 315446400,
+      "firstReleaseDate": 315446400,
       "genres": [
         {
           "id": 33,
@@ -4086,7 +4086,7 @@
         }
       ],
       "name": "Superman",
-      "rating": 30.209245400673,
+      "rating": 30,
       "slug": "superman--1",
       "summary": "Superman is an action adventure game for the Atari 2600. It was one of the first single-player games for the system and one of the earliest licensed video games. Superman is one of the first to utilize multiple screens as playing areas."
     },
@@ -4096,7 +4096,7 @@
         "id": 14696,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/bq1huarxzivju5hxp5yg.jpg"
       },
-      "first_release_date": 1407715200,
+      "firstReleaseDate": 1407715200,
       "genres": [
         {
           "id": 8,
@@ -4113,7 +4113,7 @@
         "id": 278127,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5ylr.jpg"
       },
-      "first_release_date": 423532800,
+      "firstReleaseDate": 423532800,
       "name": "Dancing Plate",
       "slug": "dancing-plate",
       "summary": "Would you like to try this traditional Chinese variety dancing plate game? Now it's your turn! Have several plates revolve on the tops of different wands and keep them all in balance. If a plate falls, rush to get it, otherwise, in case you break too many plates, it's the other player's turn."
@@ -4124,7 +4124,7 @@
         "id": 93991,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co20iv.jpg"
       },
-      "first_release_date": 539136000,
+      "firstReleaseDate": 539136000,
       "genres": [
         {
           "id": 31,
@@ -4141,7 +4141,7 @@
         "id": 278149,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5ymd.jpg"
       },
-      "first_release_date": 442108800,
+      "firstReleaseDate": 442108800,
       "name": "Snail Against Squirrel",
       "slug": "snail-against-squirrel",
       "summary": "Would you kindly help a little squirrel whom often you found playing in the woods? I am a very, very friendly squirrel; I swear, I never intend to hurt that poor snail. As it becomes colder and colder, I want nothing more than to store some nuts in my caves, lest I should be no more after the winter. But why in the world is that greedy snail always hiding somewhere to rob me of my nuts, just like those highway men? See what a dilemma I am involved in? To keep away from that cunning snail, should I go on carry the nut to my cave or gather a newly ripe one?"
@@ -4152,7 +4152,7 @@
         "id": 17203,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/khyok43rplaxo40njwrr.jpg"
       },
-      "first_release_date": 421891200,
+      "firstReleaseDate": 421891200,
       "genres": [
         {
           "id": 33,
@@ -4169,7 +4169,7 @@
         "id": 57229,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/asizfnviqzv9nmcltqad.jpg"
       },
-      "first_release_date": 391996800,
+      "firstReleaseDate": 391996800,
       "genres": [
         {
           "id": 33,
@@ -4186,7 +4186,7 @@
         "id": 137816,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2yc8.jpg"
       },
-      "first_release_date": 412905600,
+      "firstReleaseDate": 412905600,
       "genres": [
         {
           "id": 5,
@@ -4203,7 +4203,7 @@
         "id": 31090,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/rxuaclf5shgnh8ukkizp.jpg"
       },
-      "first_release_date": 412905600,
+      "firstReleaseDate": 412905600,
       "genres": [
         {
           "id": 10,
@@ -4220,7 +4220,7 @@
         "id": 278072,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5yk8.jpg"
       },
-      "first_release_date": 399168000,
+      "firstReleaseDate": 399168000,
       "genres": [
         {
           "id": 14,
@@ -4237,7 +4237,7 @@
         "id": 51238,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/tptc9yglyvvea2wqu993.jpg"
       },
-      "first_release_date": 1146441600,
+      "firstReleaseDate": 1146441600,
       "genres": [
         {
           "id": 5,
@@ -4254,7 +4254,7 @@
         "id": 215002,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4lwa.jpg"
       },
-      "first_release_date": 978220800,
+      "firstReleaseDate": 978220800,
       "genres": [
         {
           "id": 9,
@@ -4271,7 +4271,7 @@
         "id": 73457,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1koh.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 5,
@@ -4288,7 +4288,7 @@
         "id": 16922,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/bretbewkgjyhtyztvxrv.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 33,
@@ -4304,7 +4304,7 @@
         "id": 54406,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/qtamxtgnjmtlt9mbiuaa.jpg"
       },
-      "first_release_date": 412905600,
+      "firstReleaseDate": 412905600,
       "name": "Halloween",
       "slug": "halloween",
       "summary": "A homicidal maniac has escaped from a mental institution. On Halloween night, the killer returns to his home town to wreak havoc! You are babysitting for a family in a large, two story house. Somehow the vengeful murderer has gotten inside! Can you protect the children and yourself from the fury of his knife?"
@@ -4315,7 +4315,7 @@
         "id": 83478,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1seu.jpg"
       },
-      "first_release_date": 915062400,
+      "firstReleaseDate": 915062400,
       "genres": [
         {
           "id": 9,
@@ -4332,7 +4332,7 @@
         "id": 15070,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/f3plne7eaqrduplepuai.jpg"
       },
-      "first_release_date": 378604800,
+      "firstReleaseDate": 378604800,
       "genres": [
         {
           "id": 33,
@@ -4349,7 +4349,7 @@
         "id": 214897,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4ltd.jpg"
       },
-      "first_release_date": 1167523200,
+      "firstReleaseDate": 1167523200,
       "genres": [
         {
           "id": 5,
@@ -4370,7 +4370,7 @@
         "id": 54494,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/xyk0br2qayfhi5jfiryv.jpg"
       },
-      "first_release_date": 381369600,
+      "firstReleaseDate": 381369600,
       "name": "Tax Avoiders",
       "slug": "tax-avoiders",
       "summary": "You are John Q and you want to be rich. \n \nIn this game, you start out on the income screen where you try to collect the money (dollar signs) while avoiding the governmental red tape (look like red snakes). You have only one year to get your money and invest it. Each second, a day goes by. My, how time flies. \n \nOnce a season, you are sent to the investment/tax shelter screen, where you must collect an icon representing an investment and then grab your portfolio (briefcase). Investments have a 50/50 chance of making or losing money. Also on this screen is a character whose color changes. \n \nWhat color he is determines who he is: \nBlack=Eggie, the IRS agent. If he catches you, he will audit you. In these audits, you always lose. You are then taxed at 50% of your income and sent back to the income screen.There are no appeals to tax court. \nPink=Waggie, the CPA. If he catches you (or you go to him), he will charge you $1,000.00 but whatever tax sheltered investment you have, he will put you in a better one. \nGreen=Toodles, the registered investment adviser. If you two meet, he will put you in the best tax sheltered investment available, thus making you the most profit. \n \nAfter each season, you are taxed to an amount determined by your tax shelter. The object is to have $1,000,000.00 at the end of the year after taxes."
@@ -4381,7 +4381,7 @@
         "id": 214950,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4luu.jpg"
       },
-      "first_release_date": 1530230400,
+      "firstReleaseDate": 1530230400,
       "genres": [
         {
           "id": 8,
@@ -4398,7 +4398,7 @@
         "id": 240980,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co55xw.jpg"
       },
-      "first_release_date": 392169600,
+      "firstReleaseDate": 392169600,
       "genres": [
         {
           "id": 5,
@@ -4415,7 +4415,7 @@
         "id": 15022,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/xgfoj8l3ayvv9jzd1smv.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 9,
@@ -4440,7 +4440,7 @@
         "id": 29404,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/kabw0xsnkq8snh77nf0t.jpg"
       },
-      "first_release_date": 260236800,
+      "firstReleaseDate": 260236800,
       "genres": [
         {
           "id": 13,
@@ -4452,7 +4452,7 @@
         }
       ],
       "name": "Space War",
-      "rating": 54.1622941921476,
+      "rating": 54,
       "slug": "space-war",
       "summary": "This video game is an Atari 2600 port of Spacewar!, the famous 1962 computer game by Steve Russell. The cartridge comes programmed with 17 game variations. Variations 1 to 13 are duels between two ships and 14 to 17 are for one player. In some of the variations the ships fight near a planet which has gravitational attraction. This concept was used in the Star Control series of games."
     },
@@ -4462,7 +4462,7 @@
         "id": 182583,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3wvr.jpg"
       },
-      "first_release_date": 283910400,
+      "firstReleaseDate": 283910400,
       "genres": [
         {
           "id": 5,
@@ -4483,7 +4483,7 @@
         "id": 178486,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3tpy.jpg"
       },
-      "first_release_date": 428716800,
+      "firstReleaseDate": 428716800,
       "genres": [
         {
           "id": 2,
@@ -4508,7 +4508,7 @@
         "id": 83387,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1scb.jpg"
       },
-      "first_release_date": 412905600,
+      "firstReleaseDate": 412905600,
       "genres": [
         {
           "id": 5,
@@ -4525,7 +4525,7 @@
         "id": 278107,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5yl7.jpg"
       },
-      "first_release_date": 283910400,
+      "firstReleaseDate": 283910400,
       "genres": [
         {
           "id": 14,
@@ -4542,7 +4542,7 @@
         "id": 278088,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5yko.jpg"
       },
-      "first_release_date": 412905600,
+      "firstReleaseDate": 412905600,
       "genres": [
         {
           "id": 5,
@@ -4559,7 +4559,7 @@
         "id": 215009,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4lwh.jpg"
       },
-      "first_release_date": 1293753600,
+      "firstReleaseDate": 1293753600,
       "genres": [
         {
           "id": 33,
@@ -4576,7 +4576,7 @@
         "id": 16632,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/ywkfltx4zitmq2qhjvtp.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 8,
@@ -4601,7 +4601,7 @@
         "id": 10449,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/ltciicvndbyxfm58lzho.jpg"
       },
-      "first_release_date": 441676800,
+      "firstReleaseDate": 441676800,
       "genres": [
         {
           "id": 8,
@@ -4622,7 +4622,7 @@
         "id": 278170,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5ymy.jpg"
       },
-      "first_release_date": 854755200,
+      "firstReleaseDate": 854755200,
       "name": "Star Wars: Ewok Adventure",
       "slug": "star-wars-ewok-adventure",
       "summary": "You take the role of an EWOK in this thrilling game based on scenes from RETURN OF THE JEDI. Now a member of the Rebel cause, you must hang glide over dangerous territory in order to reach the Imperial shield generator. Your mission: to blow it\napart! But as you swoop through the forest, IMPERIAL STORMTROOPERS, AT-ST's and BIKER SCOUTS will try to shoot you down. Hurl rocks at the enemy as you avoid their fire and close in on the shield generator."
@@ -4633,7 +4633,7 @@
         "id": 16843,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/jowqapnjvy0icdyhnyhi.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 33,
@@ -4650,7 +4650,7 @@
         "id": 214896,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4ltc.jpg"
       },
-      "first_release_date": 1419984000,
+      "firstReleaseDate": 1419984000,
       "genres": [
         {
           "id": 8,
@@ -4667,7 +4667,7 @@
         "id": 183253,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3xed.jpg"
       },
-      "first_release_date": 441676800,
+      "firstReleaseDate": 441676800,
       "genres": [
         {
           "id": 8,
@@ -4684,7 +4684,7 @@
         "id": 17671,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/e3zcoarfekjnyxkypvqn.jpg"
       },
-      "first_release_date": 441676800,
+      "firstReleaseDate": 441676800,
       "genres": [
         {
           "id": 15,
@@ -4709,7 +4709,7 @@
         "id": 278079,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5ykf.jpg"
       },
-      "first_release_date": 410227200,
+      "firstReleaseDate": 410227200,
       "name": "Gas Hog",
       "slug": "gas-hog"
     },
@@ -4719,7 +4719,7 @@
         "id": 278090,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5ykq.jpg"
       },
-      "first_release_date": 412905600,
+      "firstReleaseDate": 412905600,
       "genres": [
         {
           "id": 13,
@@ -4740,7 +4740,7 @@
         "id": 10791,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/zpxrtq7cbxalfsk2lixq.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 5,
@@ -4748,7 +4748,7 @@
         }
       ],
       "name": "Commando Raid",
-      "rating": 56.6482621238771,
+      "rating": 56,
       "slug": "commando-raid",
       "summary": "You are in defense of your buildings which have come under attack by android commando raiders. Without warning they appear, intent on capturing your buildings and destroying your gun emplacement. \n \nFirst the troop carrying helicopters fly in dropping android paratroopers to test your defenses. Soon the sky is filled with fluttering helicopters and wave after wave of android paratroopers. They must be destroyed! Each paratrooper allowed to land on a building destroys a portion of that building. If three paratroopers land on a building. It will be totally destroyed and must be considered under commando control. \n \nWorse still, the androids can now tunnel towards your gun emplacement. Each paratrooper who lands on that building expands the tunnel. If they are not stopped, they will plant an explosive charge under the gun. \n \nIn the midst of the battle, an aircraft may appear. It will drop a devastating bomb which can destroy all buildings and the gun emplacement. You must shoot it down or at least shoot the bomb it drops. If you miss, its back to basic training!"
     },
@@ -4758,7 +4758,7 @@
         "id": 14199,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/rcvr8pznosrik2ictuxn.jpg"
       },
-      "first_release_date": 315446400,
+      "firstReleaseDate": 315446400,
       "genres": [
         {
           "id": 15,
@@ -4779,7 +4779,7 @@
         "id": 249885,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5ct9.jpg"
       },
-      "first_release_date": 415324800,
+      "firstReleaseDate": 415324800,
       "genres": [
         {
           "id": 5,
@@ -4800,7 +4800,7 @@
         "id": 275562,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5wmi.jpg"
       },
-      "first_release_date": 1293753600,
+      "firstReleaseDate": 1293753600,
       "genres": [
         {
           "id": 33,
@@ -4816,7 +4816,7 @@
         "id": 16884,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/xnha8bug62giuujehlss.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 33,
@@ -4833,7 +4833,7 @@
         "id": 73452,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1koc.jpg"
       },
-      "first_release_date": 378604800,
+      "firstReleaseDate": 378604800,
       "genres": [
         {
           "id": 33,
@@ -4850,7 +4850,7 @@
         "id": 278181,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5yn9.jpg"
       },
-      "first_release_date": 1114905600,
+      "firstReleaseDate": 1114905600,
       "genres": [
         {
           "id": 9,
@@ -4871,7 +4871,7 @@
         "id": 14704,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/vknv3gohmu5txhkbtnvt.jpg"
       },
-      "first_release_date": 567907200,
+      "firstReleaseDate": 567907200,
       "genres": [
         {
           "id": 14,
@@ -4888,7 +4888,7 @@
         "id": 14834,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/ab735629inpzyffc3tyj.jpg"
       },
-      "first_release_date": 441676800,
+      "firstReleaseDate": 441676800,
       "genres": [
         {
           "id": 33,
@@ -4905,7 +4905,7 @@
         "id": 175878,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3rpi.jpg"
       },
-      "first_release_date": 347068800,
+      "firstReleaseDate": 347068800,
       "genres": [
         {
           "id": 14,
@@ -4922,7 +4922,7 @@
         "id": 278073,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5yk9.jpg"
       },
-      "first_release_date": 404956800,
+      "firstReleaseDate": 404956800,
       "genres": [
         {
           "id": 5,
@@ -4939,7 +4939,7 @@
         "id": 14072,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/m2vfqabngtm7rxk62b0r.jpg"
       },
-      "first_release_date": 315446400,
+      "firstReleaseDate": 315446400,
       "genres": [
         {
           "id": 9,
@@ -4960,7 +4960,7 @@
         "id": 14080,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/ucacvyah5xaiexfgorjw.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 9,
@@ -4981,7 +4981,7 @@
         "id": 277412,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5y1w.jpg"
       },
-      "first_release_date": 441676800,
+      "firstReleaseDate": 441676800,
       "genres": [
         {
           "id": 5,
@@ -4998,7 +4998,7 @@
         "id": 52107,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/viyzhnranipz6dcd9pjb.jpg"
       },
-      "first_release_date": 436492800,
+      "firstReleaseDate": 436492800,
       "genres": [
         {
           "id": 31,
@@ -5015,7 +5015,7 @@
         "id": 14830,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/tnjxgab6jhfsd3yermfm.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 5,
@@ -5036,7 +5036,7 @@
         "id": 10460,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/ax9y5efiev3sypr3lkb1.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 5,
@@ -5053,7 +5053,7 @@
         "id": 16634,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/mgwgwhlgevsu5k19mupz.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 33,
@@ -5070,7 +5070,7 @@
         "id": 209122,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4hcy.jpg"
       },
-      "first_release_date": 486432000,
+      "firstReleaseDate": 486432000,
       "genres": [
         {
           "id": 14,
@@ -5087,7 +5087,7 @@
         "id": 278134,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5yly.jpg"
       },
-      "first_release_date": 425865600,
+      "firstReleaseDate": 425865600,
       "genres": [
         {
           "id": 5,
@@ -5104,7 +5104,7 @@
         "id": 278094,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5yku.jpg"
       },
-      "first_release_date": 412905600,
+      "firstReleaseDate": 412905600,
       "name": "Tuby Bird",
       "slug": "tuby-bird",
       "summary": "Tuby Bird is a clone of the Activision title, Dolphin. The difference in this game is that, instead of playing as a dolphin trying to avoid a squid, you play as a small bird while trying to avoid a bird of prey."
@@ -5115,7 +5115,7 @@
         "id": 3289,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/ojbeq5xgccvzhrfff7nz.jpg"
       },
-      "first_release_date": 439084800,
+      "firstReleaseDate": 439084800,
       "genres": [
         {
           "id": 9,
@@ -5132,7 +5132,7 @@
         "id": 14079,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/yb5ktkb55egkdwgyfgcm.jpg"
       },
-      "first_release_date": 283910400,
+      "firstReleaseDate": 283910400,
       "genres": [
         {
           "id": 9,
@@ -5153,7 +5153,7 @@
         "id": 174055,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3qav.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 14,
@@ -5170,7 +5170,7 @@
         "id": 214954,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4luy.jpg"
       },
-      "first_release_date": 855964800,
+      "firstReleaseDate": 855964800,
       "genres": [
         {
           "id": 5,
@@ -5187,7 +5187,7 @@
         "id": 196699,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co47rv.jpg"
       },
-      "first_release_date": 1428710400,
+      "firstReleaseDate": 1428710400,
       "genres": [
         {
           "id": 10,
@@ -5204,7 +5204,7 @@
         "id": 246493,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5a71.jpg"
       },
-      "first_release_date": 1664582400,
+      "firstReleaseDate": 1664582400,
       "genres": [
         {
           "id": 31,
@@ -5221,7 +5221,7 @@
         "id": 14773,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/jpfup1qur9a1kerausmu.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 33,
@@ -5238,7 +5238,7 @@
         "id": 278066,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5yk2.jpg"
       },
-      "first_release_date": 404956800,
+      "firstReleaseDate": 404956800,
       "genres": [
         {
           "id": 31,
@@ -5255,7 +5255,7 @@
         "id": 10432,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/zblfpsgcf7wrc6aatgpi.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 5,
@@ -5276,7 +5276,7 @@
         "id": 14890,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/jbhr1kwiu560vhyyuoxq.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 5,
@@ -5297,7 +5297,7 @@
         "id": 8933,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/huyisgndyxyziyit2pmo.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 5,
@@ -5318,7 +5318,7 @@
         "id": 3475,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/s01ylx39flekbuwzrcs3.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 5,
@@ -5339,7 +5339,7 @@
         "id": 161709,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3grx.jpg"
       },
-      "first_release_date": 441676800,
+      "firstReleaseDate": 441676800,
       "genres": [
         {
           "id": 5,
@@ -5364,7 +5364,7 @@
         "id": 211669,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4jbp.jpg"
       },
-      "first_release_date": 441676800,
+      "firstReleaseDate": 441676800,
       "genres": [
         {
           "id": 8,
@@ -5381,7 +5381,7 @@
         "id": 14823,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/i0ycyckbfxoh7u2x2cfe.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 10,
@@ -5402,7 +5402,7 @@
         "id": 29422,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/deh3jvnkjwh5rxzu4uuo.jpg"
       },
-      "first_release_date": 241920000,
+      "firstReleaseDate": 241920000,
       "genres": [
         {
           "id": 35,
@@ -5419,7 +5419,7 @@
         "id": 15094,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/du5bhh1ecpvzpvobwpfi.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 8,
@@ -5440,7 +5440,7 @@
         "id": 83388,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1scc.jpg"
       },
-      "first_release_date": 391737600,
+      "firstReleaseDate": 391737600,
       "genres": [
         {
           "id": 13,
@@ -5457,7 +5457,7 @@
         "id": 141798,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co31eu.jpg"
       },
-      "first_release_date": 312854400,
+      "firstReleaseDate": 312854400,
       "genres": [
         {
           "id": 31,
@@ -5465,7 +5465,7 @@
         }
       ],
       "name": "Adventure",
-      "rating": 77.48109842505019,
+      "rating": 77,
       "slug": "adventure",
       "summary": "Adventure is a video game for the Atari 2600 video game console, released at Christmas time in 1979. In the game, the player controls a square avatar whose quest is to hunt an open world environment for a magical chalice, returning it to the golden castle. The game world is populated by roaming enemies: dragons, which can eat the avatar; and a bat, which randomly steals and hides items around the game world.\n\nAdventure was designed and programmed by Atari employee Warren Robinett, and published by Atari, Inc. At the time, Atari programmers were generally given full control on the creative direction and development cycle for their games, and this required them to plan for their next game as they neared completion of their current one to stay productive.\n\nRobinett submitted the source code for Adventure to Atari management in June 1979 and soon left Atari. Atari released the game in early 1980."
     },
@@ -5475,7 +5475,7 @@
         "id": 182584,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3wvs.jpg"
       },
-      "first_release_date": 446947200,
+      "firstReleaseDate": 446947200,
       "genres": [
         {
           "id": 9,
@@ -5496,7 +5496,7 @@
         "id": 26419,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/xfzit5yqhvjmgkqnxpxd.jpg"
       },
-      "first_release_date": 602294400,
+      "firstReleaseDate": 602294400,
       "name": "Secret Quest",
       "slug": "secret-quest",
       "summary": "It started with one station, then three, then eight. If something isn't done, the aliens will overrun Earth. It is up to you to destroy the stations by setting their self destructs. \n \nYou move from room to room, fighting any enemies you encounter. When you beat an enemy, you get an energy pod or oxygen bottle. Fighting aliens depletes you energy and/or oxygen so kill quickly. Each weapon inflicts different damage, and depletes a different amount of energy. As a rule, the stronger a weapon is, the more energy it requires. You also use oxygen at the rate of one bottle per minute while exploring. Along the way, you will sometimes find sonic keys, and energy sword, sonic blaster or particle beam. Sonic keys are needed for certain doors you encounter in later stations. \n \nOnce you set the self destruct code, a clock starts and you must make it to the teleporter before the time runs out. The game ends when you destroy all eight stations, run out of oxygen or do not get off a station before it self destructs. If you run out of energy, the game does not end but you will not be able to use any weapon so you can't kill monsters so you can't replenish oxygen. Hence, the game won't go long if you run out of energy."
@@ -5507,7 +5507,7 @@
         "id": 142546,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co31zm.jpg"
       },
-      "first_release_date": 402278400,
+      "firstReleaseDate": 402278400,
       "genres": [
         {
           "id": 31,
@@ -5524,7 +5524,7 @@
         "id": 182586,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3wvu.jpg"
       },
-      "first_release_date": 431222400,
+      "firstReleaseDate": 431222400,
       "genres": [
         {
           "id": 5,
@@ -5549,7 +5549,7 @@
         "id": 14197,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/qzzq73q3spxvcgwjjplc.jpg"
       },
-      "first_release_date": 242784000,
+      "firstReleaseDate": 242784000,
       "genres": [
         {
           "id": 33,
@@ -5566,7 +5566,7 @@
         "id": 51647,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/vgwkka6nfo6oy5fadxuq.jpg"
       },
-      "first_release_date": 423532800,
+      "firstReleaseDate": 423532800,
       "genres": [
         {
           "id": 14,
@@ -5583,7 +5583,7 @@
         "id": 13971,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/pxutukwqpci8mfusrjcx.jpg"
       },
-      "first_release_date": 241920000,
+      "firstReleaseDate": 241920000,
       "genres": [
         {
           "id": 5,
@@ -5595,7 +5595,7 @@
         }
       ],
       "name": "Combat",
-      "rating": 69.9099560396684,
+      "rating": 69,
       "slug": "combat",
       "summary": "Combat is an early video game by Atari, Inc. for the Atari 2600. It was based on two earlier black-and-white coin-operated arcade games produced by Atari. Combat had color graphics and numerous gameplay variations. The 27 game modes featured a variety of different combat scenarios, including tanks, biplanes, and jet fighters. The tank games had interesting options such as bouncing munitions (\"Tank-Pong\") and invisibility. The biplane and jet games also allowed for variation, such as multiple planes per player and an inventive game with a squadron of planes versus one giant bomber."
     },
@@ -5605,7 +5605,7 @@
         "id": 133635,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2v43.jpg"
       },
-      "first_release_date": 381369600,
+      "firstReleaseDate": 381369600,
       "genres": [
         {
           "id": 4,
@@ -5626,7 +5626,7 @@
         "id": 14078,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/mocwiobzsjzbcrdf06hv.jpg"
       },
-      "first_release_date": 241920000,
+      "firstReleaseDate": 241920000,
       "genres": [
         {
           "id": 9,
@@ -5643,7 +5643,7 @@
         "id": 14552,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/qkcpsch2xwnnkdpqqkv8.jpg"
       },
-      "first_release_date": 1278547200,
+      "firstReleaseDate": 1278547200,
       "genres": [
         {
           "id": 5,
@@ -5664,7 +5664,7 @@
         "id": 278128,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5yls.jpg"
       },
-      "first_release_date": 423532800,
+      "firstReleaseDate": 423532800,
       "genres": [
         {
           "id": 31,
@@ -5681,7 +5681,7 @@
         "id": 248306,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5ble.jpg"
       },
-      "first_release_date": 441676800,
+      "firstReleaseDate": 441676800,
       "genres": [
         {
           "id": 8,
@@ -5702,7 +5702,7 @@
         "id": 29441,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/zbho0zj5tmfcerdtjdyq.jpg"
       },
-      "first_release_date": 315446400,
+      "firstReleaseDate": 315446400,
       "genres": [
         {
           "id": 13,
@@ -5719,7 +5719,7 @@
         "id": 29873,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/hpjnxezuzxmjbiknq1gl.jpg"
       },
-      "first_release_date": 378604800,
+      "firstReleaseDate": 378604800,
       "genres": [
         {
           "id": 14,
@@ -5736,7 +5736,7 @@
         "id": 14707,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/f7q3rvqxlivklebahiqb.jpg"
       },
-      "first_release_date": 315446400,
+      "firstReleaseDate": 315446400,
       "genres": [
         {
           "id": 13,
@@ -5753,7 +5753,7 @@
         "id": 271695,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5tn3.jpg"
       },
-      "first_release_date": 423273600,
+      "firstReleaseDate": 423273600,
       "genres": [
         {
           "id": 15,
@@ -5770,7 +5770,7 @@
         "id": 14774,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/ztghqgdacwq8qbfcgco1.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 5,
@@ -5795,7 +5795,7 @@
         "id": 238822,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co549y.jpg"
       },
-      "first_release_date": 567907200,
+      "firstReleaseDate": 567907200,
       "name": "Kung-Fu Master",
       "slug": "kung-fu-master--3"
     },
@@ -5805,7 +5805,7 @@
         "id": 147904,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co364g.jpg"
       },
-      "first_release_date": 315446400,
+      "firstReleaseDate": 315446400,
       "genres": [
         {
           "id": 14,
@@ -5822,7 +5822,7 @@
         "id": 267613,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5qhp.jpg"
       },
-      "first_release_date": 318211200,
+      "firstReleaseDate": 318211200,
       "genres": [
         {
           "id": 10,
@@ -5854,7 +5854,7 @@
         "id": 142551,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co31zr.jpg"
       },
-      "first_release_date": 609984000,
+      "firstReleaseDate": 609984000,
       "genres": [
         {
           "id": 14,
@@ -5871,7 +5871,7 @@
         "id": 15077,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/lfizu4a89i9roqwqyrpb.jpg"
       },
-      "first_release_date": 378604800,
+      "firstReleaseDate": 378604800,
       "genres": [
         {
           "id": 33,
@@ -5888,7 +5888,7 @@
         "id": 14234,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/l1q1v9ofrinqmzh9bjau.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 10,
@@ -5909,7 +5909,7 @@
         "id": 29424,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/nzylgwf09vg8rkbuq55a.jpg"
       },
-      "first_release_date": 283910400,
+      "firstReleaseDate": 283910400,
       "genres": [
         {
           "id": 7,
@@ -5930,7 +5930,7 @@
         "id": 14710,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/u0mcr9owwagnrha8p0my.jpg"
       },
-      "first_release_date": 241920000,
+      "firstReleaseDate": 241920000,
       "genres": [
         {
           "id": 5,
@@ -5947,7 +5947,7 @@
         "id": 213899,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4l1n.jpg"
       },
-      "first_release_date": 412905600,
+      "firstReleaseDate": 412905600,
       "genres": [
         {
           "id": 8,
@@ -5964,7 +5964,7 @@
         "id": 26421,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/knavmr2wtai0s6ntnzfw.jpg"
       },
-      "first_release_date": 412905600,
+      "firstReleaseDate": 412905600,
       "genres": [
         {
           "id": 5,
@@ -6001,7 +6001,7 @@
         "id": 15131,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/hrntvvlbqvq0omhuohjt.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 5,
@@ -6026,7 +6026,7 @@
         "id": 73461,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1kol.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 9,
@@ -6059,7 +6059,7 @@
         "id": 17214,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/y6ai2x5zvsi7ldqt1xna.jpg"
       },
-      "first_release_date": 441676800,
+      "firstReleaseDate": 441676800,
       "genres": [
         {
           "id": 4,
@@ -6084,7 +6084,7 @@
         "id": 14871,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/iea6vtlmhhshfc63mu4f.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 5,
@@ -6105,7 +6105,7 @@
         "id": 278136,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5ym0.jpg"
       },
-      "first_release_date": 428544000,
+      "firstReleaseDate": 428544000,
       "name": "Surfer's Paradise",
       "slug": "surfers-paradise",
       "summary": "The Surf's Up and you're ready to go. But wait...there's a shark warning. The only thing to do is jump each time the shark makes his move. Not easy when you're riding on top of a wild, pulsating wave. Any mistake and into the water you go.\n\nUnder the thundering surf you find an old sunken Galleon between you and your surfboard. You only have a few seconds of air to negotiate the distance. The Galleon is protected by fast moving octopus. The walls of the Galleon can change shape and just in case you're not too busy, there's a jellyfish standing guard by your surfboard. Make it back on time and you get another ride on the wild surf.\n\nThe action gets faster and faster. You test every skill you know plus invent a few new ones, but ride the Wild Surf you will!"
@@ -6116,7 +6116,7 @@
         "id": 10461,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/ks9mmbwcaqlnllr4o4kl.jpg"
       },
-      "first_release_date": 347068800,
+      "firstReleaseDate": 347068800,
       "name": "Challenge",
       "slug": "challenge",
       "summary": "Challenge is an Action game, developed and published by Funvision, which was released in Europe in 1980."
@@ -6127,7 +6127,7 @@
         "id": 278150,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5yme.jpg"
       },
-      "first_release_date": 444441600,
+      "firstReleaseDate": 444441600,
       "name": "Cosmic Commuter",
       "slug": "cosmic-commuter",
       "summary": "WAY BACK IN THE TWENTIETH CENTURY, a bunch of Ivy League Professors sat around inventing space colonies. They were lauded as visionaries and went on as lecture tours. Do you think they thought about traffic jams in space?\n\nSomehow, we don't think they did.\n\nWe're the G.T.A --- Galactic Travel Authority. The movers of the daily grind, circa 2075 A.D.\n\nAnd we're glad you're working for us now."
@@ -6138,7 +6138,7 @@
         "id": 161691,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3grf.jpg"
       },
-      "first_release_date": 441676800,
+      "firstReleaseDate": 441676800,
       "genres": [
         {
           "id": 10,
@@ -6159,7 +6159,7 @@
         "id": 52595,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/rfapu3tjhadkvknevmf5.jpg"
       },
-      "first_release_date": 423619200,
+      "firstReleaseDate": 423619200,
       "genres": [
         {
           "id": 31,
@@ -6176,7 +6176,7 @@
         "id": 10536,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/yey8raso14qs9opv2t00.jpg"
       },
-      "first_release_date": 441676800,
+      "firstReleaseDate": 441676800,
       "name": "Tooth Protectors",
       "slug": "tooth-protectors",
       "summary": "In this game the player must prevent objects dropping from the top of the screen from reaching the bottom by positioning their character directly under the falling objects. The player's character is a small smiling face carrying a strand of dental floss above its head. They must prevent the snack squares from reaching the row of white teeth along the bottom of the screen; repeated hits by the snacks cause the teeth to blink and disappear from tooth decay."
@@ -6187,7 +6187,7 @@
         "id": 10430,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/mvtigcrf9ool1oux3dfo.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 8,
@@ -6204,7 +6204,7 @@
         "id": 9002,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/ax0ftquzccrc1kb11xjo.jpg"
       },
-      "first_release_date": 401587200,
+      "firstReleaseDate": 401587200,
       "genres": [
         {
           "id": 33,
@@ -6221,7 +6221,7 @@
         "id": 14856,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/flsp7rjqweabv8kxuddi.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 5,
@@ -6242,7 +6242,7 @@
         "id": 13888,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/wy8symtmxnub2qdf7gtx.jpg"
       },
-      "first_release_date": 631065600,
+      "firstReleaseDate": 631065600,
       "genres": [
         {
           "id": 33,
@@ -6259,7 +6259,7 @@
         "id": 14693,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/bvk3eprwauvbo9b1ym0l.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 5,
@@ -6276,7 +6276,7 @@
         "id": 14316,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/mhjrkv6pyo5hb2rjjzuu.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 10,
@@ -6288,7 +6288,7 @@
         }
       ],
       "name": "Grand Prix",
-      "rating": 59.86008071283371,
+      "rating": 59,
       "slug": "grand-prix",
       "summary": "The player drives a Formula One car in a time trial on one of four race tracks, each of which has a different difficulty level. Difficulty is gauged by the length of the course, the number of cars and oil slicks on the track, and the number of bridges to cross. The player views the race from a top-down perspective, and the screen scrolls from right to left. The player's car maneuvers only on a vertical axis, and loses a little speed when it does so. The joystick's button is the throttle: Depressing it accelerates, and releasing it decelerates. Pressing the joystick leftward applies the brake. The transmission audibly shifts as the player's car accelerates and decelerates. Grand Prix is a time trial, and the competing cars are obstacles rather than competition for the finish line. The player's car can easily outpace the other cars, but if it collides with one, its speed drops lower than that of the impacted car. Driving over an oil slick causes the player's car to skid slightly sideways, but does not slow it down. Once every scale mile, the player crosses a narrow bridge over blue water. Colliding with any wall of the bridge stops the car, and the player must slowly gain speed to continue."
     },
@@ -6298,7 +6298,7 @@
         "id": 10431,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/xqku1lnfznoxygnoutwx.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 5,
@@ -6315,7 +6315,7 @@
         "id": 73454,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1koe.jpg"
       },
-      "first_release_date": 473299200,
+      "firstReleaseDate": 473299200,
       "genres": [
         {
           "id": 33,
@@ -6332,7 +6332,7 @@
         "id": 14702,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/qwleqotqkef4y28sndqc.jpg"
       },
-      "first_release_date": 315446400,
+      "firstReleaseDate": 315446400,
       "genres": [
         {
           "id": 13,
@@ -6357,7 +6357,7 @@
         "id": 14030,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/r5u6fyd6miowjtqiek0m.jpg"
       },
-      "first_release_date": 412905600,
+      "firstReleaseDate": 412905600,
       "genres": [
         {
           "id": 9,
@@ -6378,7 +6378,7 @@
         "id": 277648,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5y8g.jpg"
       },
-      "first_release_date": 412905600,
+      "firstReleaseDate": 412905600,
       "genres": [
         {
           "id": 9,
@@ -6399,7 +6399,7 @@
         "id": 29572,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/igry374yd6x8hv1jjs2c.jpg"
       },
-      "first_release_date": 347068800,
+      "firstReleaseDate": 347068800,
       "genres": [
         {
           "id": 14,
@@ -6416,7 +6416,7 @@
         "id": 29860,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/s8ad3s2qx3tpk3p8ssrw.jpg"
       },
-      "first_release_date": 349833600,
+      "firstReleaseDate": 349833600,
       "genres": [
         {
           "id": 5,
@@ -6437,7 +6437,7 @@
         "id": 24432,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/z40munmbjz7zkb2lqgvg.jpg"
       },
-      "first_release_date": 347068800,
+      "firstReleaseDate": 347068800,
       "genres": [
         {
           "id": 16,
@@ -6458,7 +6458,7 @@
         "id": 29859,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/inc9fz3wndrskjeo5k6h.jpg"
       },
-      "first_release_date": 378604800,
+      "firstReleaseDate": 378604800,
       "genres": [
         {
           "id": 14,
@@ -6475,7 +6475,7 @@
         "id": 14708,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/uhl3fhlo3sqkc8x1x3eh.jpg"
       },
-      "first_release_date": 283910400,
+      "firstReleaseDate": 283910400,
       "genres": [
         {
           "id": 10,
@@ -6492,7 +6492,7 @@
         "id": 29571,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/oqtfldgq7idwyzvlef6t.jpg"
       },
-      "first_release_date": 347068800,
+      "firstReleaseDate": 347068800,
       "genres": [
         {
           "id": 4,
@@ -6504,7 +6504,7 @@
         }
       ],
       "name": "Boxing",
-      "rating": 69.9576220986346,
+      "rating": 69,
       "slug": "boxing--1",
       "summary": "Boxing is an action boxing game for one or two players which is played from an overhead point of view. The game lasts for two minutes, and the player who can earn the most points in that time wins. You earn one point for a long jab, two points for a close power punch, and if you can manage knockout it's worth one hundred points. Two difficulty levels are included which can be set individually for each player."
     },
@@ -6514,7 +6514,7 @@
         "id": 122471,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2mhz.jpg"
       },
-      "first_release_date": 425865600,
+      "firstReleaseDate": 425865600,
       "genres": [
         {
           "id": 8,
@@ -6531,7 +6531,7 @@
         "id": 55916,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/s3aafi3nrzxg5dvmwymj.jpg"
       },
-      "first_release_date": 415411200,
+      "firstReleaseDate": 415411200,
       "genres": [
         {
           "id": 8,
@@ -6548,7 +6548,7 @@
         "id": 14889,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/tgyrf7xftjzu3mtgp50u.jpg"
       },
-      "first_release_date": 441676800,
+      "firstReleaseDate": 441676800,
       "genres": [
         {
           "id": 31,
@@ -6569,7 +6569,7 @@
         "id": 14713,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/pjxnkbvu6pcetswzpou3.jpg"
       },
-      "first_release_date": 378604800,
+      "firstReleaseDate": 378604800,
       "genres": [
         {
           "id": 5,
@@ -6602,7 +6602,7 @@
         "id": 274158,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5vji.jpg"
       },
-      "first_release_date": 391910400,
+      "firstReleaseDate": 391910400,
       "genres": [
         {
           "id": 31,
@@ -6619,7 +6619,7 @@
         "id": 278183,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5ynb.jpg"
       },
-      "first_release_date": 1115251200,
+      "firstReleaseDate": 1115251200,
       "genres": [
         {
           "id": 13,
@@ -6636,7 +6636,7 @@
         "id": 22886,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/o6ar7huwiedsi5yvarkq.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 5,
@@ -6653,7 +6653,7 @@
         "id": 274695,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5vyf.jpg"
       },
-      "first_release_date": 404956800,
+      "firstReleaseDate": 404956800,
       "genres": [
         {
           "id": 31,
@@ -6670,7 +6670,7 @@
         "id": 14695,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/yudqddzgk3auyzqdygti.jpg"
       },
-      "first_release_date": 414720000,
+      "firstReleaseDate": 414720000,
       "genres": [
         {
           "id": 5,
@@ -6686,7 +6686,7 @@
         }
       ],
       "name": "Plaque Attack",
-      "rating": 60.0607641252089,
+      "rating": 60,
       "slug": "plaque-attack",
       "summary": "Plaque Attack is a 1983 video game for the Atari 2600 that was made by Activision. Loosely based on Space Invaders, the player must prevent food from destroying teeth in a person's mouth. Steve Cartwright, who designed the game, said that game was meant to help people develop good dental habits."
     },
@@ -6706,7 +6706,7 @@
         "id": 10442,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/eepq9wfh8cagmxbkrbwn.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 13,
@@ -6727,7 +6727,7 @@
         "id": 14553,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/ufu0jx5mfrsjx28c5wfb.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 33,
@@ -6744,7 +6744,7 @@
         "id": 278996,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5z9w.jpg"
       },
-      "first_release_date": 1656633600,
+      "firstReleaseDate": 1656633600,
       "genres": [
         {
           "id": 5,
@@ -6761,7 +6761,7 @@
         "id": 278156,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5ymk.jpg"
       },
-      "first_release_date": 539136000,
+      "firstReleaseDate": 539136000,
       "genres": [
         {
           "id": 14,
@@ -6782,7 +6782,7 @@
         "id": 182582,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3wvq.jpg"
       },
-      "first_release_date": 378604800,
+      "firstReleaseDate": 378604800,
       "genres": [
         {
           "id": 5,
@@ -6799,7 +6799,7 @@
         "id": 10218,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/dh9szlkc6p0omqviluac.jpg"
       },
-      "first_release_date": 441676800,
+      "firstReleaseDate": 441676800,
       "genres": [
         {
           "id": 4,
@@ -6807,7 +6807,7 @@
         }
       ],
       "name": "Star Wars: Jedi Arena",
-      "rating": 59.92276182268679,
+      "rating": 59,
       "slug": "star-wars-jedi-arena",
       "summary": "In Jedi Arena, you have to face an opponent in the arena to see who is the true Jedi master. Wandering throughout the arena is a seeker which is capable of firing laser bolts. To be victorious you need to destroy your opponents shield by having the seeker fire laser bolts at it. You are armed only with a light saber which is used to control the direction of the laser bolts you fire, as well as block incoming fire from your opponent. \n \nThe first player to break through the other players shield wins a point, and the first player to 3 points wins the match! Several game options are included which control the speed of the seeker, or even make the seeker invisible."
     },
@@ -6817,7 +6817,7 @@
         "id": 16841,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/b4aza4hj4vsoprck8upt.jpg"
       },
-      "first_release_date": 441676800,
+      "firstReleaseDate": 441676800,
       "genres": [
         {
           "id": 8,
@@ -6863,7 +6863,7 @@
         "id": 16656,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/wohegtlecoc9cdi8eo4w.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 5,
@@ -6884,7 +6884,7 @@
         "id": 17216,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/ftr609r8ojekbblqjz6g.jpg"
       },
-      "first_release_date": 441676800,
+      "firstReleaseDate": 441676800,
       "genres": [
         {
           "id": 5,
@@ -6905,7 +6905,7 @@
         "id": 14793,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/rzltbrrzv6ce2r0qlyhj.jpg"
       },
-      "first_release_date": 378604800,
+      "firstReleaseDate": 378604800,
       "genres": [
         {
           "id": 5,
@@ -6926,7 +6926,7 @@
         "id": 53039,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/ni0azstvt1rwcx6b8wpt.jpg"
       },
-      "first_release_date": 1054425600,
+      "firstReleaseDate": 1054425600,
       "genres": [
         {
           "id": 31,
@@ -6943,7 +6943,7 @@
         "id": 52737,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/xub7eyv7spqbjlsu70is.jpg"
       },
-      "first_release_date": 436492800,
+      "firstReleaseDate": 436492800,
       "genres": [
         {
           "id": 9,
@@ -6964,7 +6964,7 @@
         "id": 52544,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/qqios8encib3zxkbjewp.jpg"
       },
-      "first_release_date": 381369600,
+      "firstReleaseDate": 381369600,
       "genres": [
         {
           "id": 14,
@@ -6981,7 +6981,7 @@
         "id": 174056,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3qaw.jpg"
       },
-      "first_release_date": 441676800,
+      "firstReleaseDate": 441676800,
       "genres": [
         {
           "id": 5,
@@ -7002,7 +7002,7 @@
         "id": 14857,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/swofhv7g0vafjp2pvd3l.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 5,
@@ -7023,7 +7023,7 @@
         "id": 267614,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5qhq.jpg"
       },
-      "first_release_date": 347068800,
+      "firstReleaseDate": 347068800,
       "genres": [
         {
           "id": 13,
@@ -7048,7 +7048,7 @@
         "id": 29573,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/ojkt9qsdoelqafps6vxo.jpg"
       },
-      "first_release_date": 347068800,
+      "firstReleaseDate": 347068800,
       "genres": [
         {
           "id": 16,
@@ -7069,7 +7069,7 @@
         "id": 50567,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/lkoiod3hf6h6vke4aqdb.jpg"
       },
-      "first_release_date": 412905600,
+      "firstReleaseDate": 412905600,
       "genres": [
         {
           "id": 5,
@@ -7086,7 +7086,7 @@
         "id": 29402,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/iezg5ogvkhrowlh0w9ql.jpg"
       },
-      "first_release_date": 241920000,
+      "firstReleaseDate": 241920000,
       "genres": [
         {
           "id": 33,
@@ -7103,7 +7103,7 @@
         "id": 16730,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/ivle8qv3g4oow3a63ct6.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 5,
@@ -7124,7 +7124,7 @@
         "id": 29405,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/gjdnmnguio2umao9fmxo.jpg"
       },
-      "first_release_date": 283910400,
+      "firstReleaseDate": 283910400,
       "genres": [
         {
           "id": 13,
@@ -7141,7 +7141,7 @@
         "id": 16794,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/iufom2lpnopd1nqaoanz.jpg"
       },
-      "first_release_date": 441676800,
+      "firstReleaseDate": 441676800,
       "genres": [
         {
           "id": 33,
@@ -7158,7 +7158,7 @@
         "id": 6847,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/mc1l9crq1rm2ykd37gza.jpg"
       },
-      "first_release_date": 407548800,
+      "firstReleaseDate": 407548800,
       "genres": [
         {
           "id": 15,
@@ -7170,7 +7170,7 @@
         }
       ],
       "name": "E.T. the Extra-Terrestrial",
-      "rating": 48.5532758010818,
+      "rating": 48,
       "slug": "e-t-the-extra-terrestrial",
       "summary": "E.T. the Extra-Terrestrial (also referred to simply as E.T.) is a 1982 adventure video game developed and published by Atari, Inc. for the Atari 2600 video game console. It is based on the film of the same name, and was designed by Howard Scott Warshaw. The objective of the game is to guide the eponymous character through various screens to collect three pieces of an interplanetary telephone that will allow him to contact his home planet. It is widely regarded as the worst game ever made and one of the major contributing factors to the near death of the video game industry in 1983."
     },
@@ -7180,7 +7180,7 @@
         "id": 29874,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/qsxcnefmlnenjzr7fv5c.jpg"
       },
-      "first_release_date": 378604800,
+      "firstReleaseDate": 378604800,
       "genres": [
         {
           "id": 14,
@@ -7197,7 +7197,7 @@
         "id": 14245,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/zbqjbnmyrpmwaxrvscnl.jpg"
       },
-      "first_release_date": 378604800,
+      "firstReleaseDate": 378604800,
       "genres": [
         {
           "id": 10,
@@ -7218,7 +7218,7 @@
         "id": 212019,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4jlf.jpg"
       },
-      "first_release_date": 441676800,
+      "firstReleaseDate": 441676800,
       "genres": [
         {
           "id": 8,
@@ -7239,7 +7239,7 @@
         "id": 14045,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/paie4icqz1u1zdznxuzd.jpg"
       },
-      "first_release_date": 283910400,
+      "firstReleaseDate": 283910400,
       "genres": [
         {
           "id": 9,
@@ -7260,7 +7260,7 @@
         "id": 278948,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5z8k.jpg"
       },
-      "first_release_date": 283910400,
+      "firstReleaseDate": 283910400,
       "genres": [
         {
           "id": 14,
@@ -7277,7 +7277,7 @@
         "id": 150909,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co38fx.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 5,
@@ -7306,7 +7306,7 @@
         "id": 147616,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co35wg.jpg"
       },
-      "first_release_date": 283910400,
+      "firstReleaseDate": 283910400,
       "genres": [
         {
           "id": 15,
@@ -7323,7 +7323,7 @@
         "id": 278132,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5ylw.jpg"
       },
-      "first_release_date": 423619200,
+      "firstReleaseDate": 423619200,
       "name": "Texas Chainsaw Massacre",
       "slug": "texas-chainsaw-massacre",
       "summary": "This game is very difficult to find because many retailers declined to carry it. Others kept the game behind the counter away from children. Wizard Video faced protests when they released this game, as some social groups claimed that it promoted violence. It's very hard to find with the box and manual."
@@ -7334,7 +7334,7 @@
         "id": 14999,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/hcaqsekkidhbdev8bnzq.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 5,
@@ -7355,7 +7355,7 @@
         "id": 151381,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co38t1.jpg"
       },
-      "first_release_date": 531187200,
+      "firstReleaseDate": 531187200,
       "genres": [
         {
           "id": 5,
@@ -7376,7 +7376,7 @@
         "id": 15000,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/wlu45nllfxlc2dsm17sj.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 5,
@@ -7397,7 +7397,7 @@
         "id": 14873,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/tjifljkp2k2vhnqjltbb.jpg"
       },
-      "first_release_date": 410140800,
+      "firstReleaseDate": 410140800,
       "genres": [
         {
           "id": 12,
@@ -7414,7 +7414,7 @@
         "id": 14036,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/ihk7tsrtmqkozgofxnox.jpg"
       },
-      "first_release_date": 347068800,
+      "firstReleaseDate": 347068800,
       "genres": [
         {
           "id": 10,
@@ -7426,7 +7426,7 @@
         }
       ],
       "name": "Dodge 'Em",
-      "rating": 59.0208298788402,
+      "rating": 59,
       "slug": "dodge-em",
       "summary": "Dodge 'Em is a 1980 Atari 2600 video game, a driving game based on Sega's Head On (1979). The player controls one car and has to drive counter-clockwise, avoiding computer-controlled cars whose sole aim is to produce a head-on collision. The player's car can travel at two speeds, a 'normal' speed which is the same speed as computer-controlled cars, or if the player presses the controller button, his or her car travels at a 'fast' speed double its normal speed. The computer-controlled cars have only one speed. Players change lanes by pushing the controller in the appropriate direction when their car is near one of the gaps in the roadway."
     },
@@ -7436,7 +7436,7 @@
         "id": 55525,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/yc7itnq5yo6wklcfzc7t.jpg"
       },
-      "first_release_date": 283910400,
+      "firstReleaseDate": 283910400,
       "genres": [
         {
           "id": 15,

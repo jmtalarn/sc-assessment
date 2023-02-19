@@ -8,8 +8,8 @@
 (you can surprise us with another one If you feel more comfortable)
 [] Create a DataTable to sort a list of items with some information, it could have good points as:
 [] A search bar that allows search by any field.
-[] ]Sort by field.
-[] ]Add, modify or delete items from the table with an intuitive UX/UI template.
+[] Sort by field.
+[] Add, modify or delete items from the table with an intuitive UX/UI template.
 [] Choose one item from the table and display it in a showcase format.
 
 Optional points:

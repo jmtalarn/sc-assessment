@@ -1,25 +1,13 @@
 import React from 'react';
 import { describe, it, expect } from 'vitest';
-
-describe('something truthy and falsy', () => {
-  it('true to be true', () => {
-    expect(true).toBe(true);
-  });
-
-  it('false to be false', () => {
-    expect(false).toBe(false);
-  });
-});
 import { render, screen } from '@testing-library/react';
 
-import App from './App';
+import App, { DATA_TEST_ID } from './App';
 
 describe('App', () => {
   it('renders headline', () => {
     render(<App />);
 
-    screen.debug();
-
-    // check if App components renders headline
+    expect(screen.getByTestId(DATA_TEST_ID)).toBeInTheDocument();
   });
 });

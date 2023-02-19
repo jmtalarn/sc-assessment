@@ -8,8 +8,10 @@ export default {
   component: Title,
 } as ComponentMeta<typeof Title>;
 
-const Template: ComponentStory<typeof Title> = (args) => <Title />;
+const Template: ComponentStory<typeof Title> = (args) => <Title {...args} />;
 
 export const Default = Template.bind({});
 
-Default.args = {};
+Default.args = {
+  title: 'This is a retro title',
+};
