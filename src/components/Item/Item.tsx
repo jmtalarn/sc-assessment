@@ -1,13 +1,10 @@
-import React, { useState } from 'react';
+import React, { KeyboardEvent, useState } from 'react';
 import styled from 'styled-components';
 import { Game } from '../../domain/models/Game';
 import { convertDate } from '../../utils/dates';
 import noCoverImage from './assets/space-invaders.svg';
 import Button from '../Button';
 
-const Wrapper = styled.div`
-  position: relative;
-`;
 const Container = styled.article`
   display: flex;
   align-items: flex-start;
@@ -59,11 +56,6 @@ const Rating = styled.div`
     font-family: 'Press Start 2P', monospace, cursive;
   }
 `;
-
-type Props = {
-  game: Game;
-  onDelete?: () => void;
-};
 
 const Collapsible: React.FC<{ children?: React.ReactNode }> = ({ children }) => {
   const [open, setOpen] = useState(false);
@@ -121,7 +113,7 @@ const Buttons = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: space-around;
+  gap: 1rem;
 
   button {
     transition: background-color 300ms ease-in;
@@ -132,13 +124,33 @@ const Buttons = styled.div`
   }
 `;
 
-const Item = ({ game: { id, cover, firstReleaseDate, name, slug, summary, genres, rating }, onDelete }: Props) => {
-  const [editMode, setEditMode] = useState(false);
+export type Props = {
+  game: Game;
+  onDelete?: (game: Game) => void;
+  onUpdate?: (game: Game) => void;
+};
 
-  const justNumbersOnKeyPress = (e) => {
-    if (!e.key.match(/^[0-9]/g) && e.keyCode !== 8 && e.keyCode !== 46) {
-      e.preventDefault();
-    }
+const Item = ({ game, onDelete, onUpdate }: Props) => {
+  const { id, cover, firstReleaseDate, name, slug, summary, genres, rating } = game;
+  const [editMode, setEditMode] = useState(false);
+  const [editableFields, setEditableFields] = useState({ name, summary, rating: rating || '' });
+
+  const justNumbersOnKeyPress = (e: KeyboardEvent<HTMLInputElement>) => {
+    return [
+      'Digit0',
+      'Digit1',
+      'Digit2',
+      'Digit3',
+      'Digit4',
+      'Digit5',
+      'Digit6',
+      'Digit7',
+      'Digit8',
+      'Digit9',
+      'ArrowLeft',
+      'ArrowRight',
+      'Backspace',
+    ].includes(e.code);
   };
   return (
     <Container id={`${slug}-${id}`}>
@@ -146,7 +158,18 @@ const Item = ({ game: { id, cover, firstReleaseDate, name, slug, summary, genres
 
       <Data>
         <FirstBlock>
-          {editMode ? <input className="title" name="title" value={name} /> : <h3 className="title">{name}</h3>}
+          {editMode ? (
+            <input
+              className="title"
+              name="name"
+              value={editableFields.name}
+              onChange={(e) => {
+                setEditableFields({ ...editableFields, name: e.target.value });
+              }}
+            />
+          ) : (
+            <h3 className="title">{name}</h3>
+          )}
           <div>
             <small>{!!genres?.length && genres.map((genre) => genre.name).join(', ')}</small>
           </div>
@@ -156,7 +179,13 @@ const Item = ({ game: { id, cover, firstReleaseDate, name, slug, summary, genres
         </FirstBlock>
 
         {editMode ? (
-          <textarea defaultValue={summary} name="summary" />
+          <textarea
+            value={editableFields.summary}
+            name="summary"
+            onChange={(e) => {
+              setEditableFields({ ...editableFields, summary: e.target.value });
+            }}
+          />
         ) : (
           <Collapsible {...{ editMode }}>{summary}</Collapsible>
         )}
@@ -165,7 +194,16 @@ const Item = ({ game: { id, cover, firstReleaseDate, name, slug, summary, genres
       <Rating>
         Rating{' '}
         {editMode ? (
-          <input className="value" name="rating" onKeyPress={justNumbersOnKeyPress} value={rating} />
+          <input
+            className="value"
+            name="rating"
+            onKeyDown={justNumbersOnKeyPress}
+            defaultValue={''}
+            onChange={(e) => {
+              setEditableFields({ ...editableFields, rating: parseInt(e.target.value) || '' });
+            }}
+            value={editableFields.rating}
+          />
         ) : (
           <span className="value">{rating}</span>
         )}
@@ -177,6 +215,12 @@ const Item = ({ game: { id, cover, firstReleaseDate, name, slug, summary, genres
               variant="confirm"
               onClick={() => {
                 setEditMode(false);
+                onUpdate &&
+                  onUpdate({
+                    ...game,
+                    ...editableFields,
+                    rating: editableFields.rating === '' ? undefined : (editableFields.rating as number | undefined),
+                  });
               }}
             />
             <Button
@@ -194,7 +238,12 @@ const Item = ({ game: { id, cover, firstReleaseDate, name, slug, summary, genres
                 setEditMode(true);
               }}
             />
-            <Button variant="remove" onClick={onDelete} />
+            <Button
+              variant="remove"
+              onClick={() => {
+                onDelete && onDelete(game);
+              }}
+            />
           </>
         )}
       </Buttons>

@@ -2,10 +2,11 @@ import React from 'react';
 import { AppProvider } from './domain/reducers/context';
 import GlobalStyle from './styles/GlobalStyle';
 import Title from './components/Title';
-import FilterInput from './components/FilterInput';
 import styled from 'styled-components';
 import AppLoader from './domain/application/AppLoader';
 import Datatable from './domain/application/Datatable';
+import CreateGameButton from './domain/application/CreateGameButton';
+import QueryGameByTextInput from './domain/application/QueryGameByText';
 
 export const DATA_TEST_ID = 'app';
 
@@ -16,6 +17,10 @@ const Container = styled.div`
   header {
     margin: 2rem;
   }
+
+  main {
+    position: relative;
+  }
 `;
 
 function App() {
@@ -24,12 +29,13 @@ function App() {
       <Container className="App" data-testid={DATA_TEST_ID}>
         <GlobalStyle />
         <header>
-          <Title title={`Atari 2600 games datatabl`} />
-          <FilterInput />
+          <Title title={`Atari 2600 games datatable`} />
+          <QueryGameByTextInput />
         </header>
 
         <main>
           <Datatable />
+          <CreateGameButton />
         </main>
         <AppLoader />
       </Container>

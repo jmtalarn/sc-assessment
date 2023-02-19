@@ -1,9 +1,10 @@
-import React from 'react';
+import React, { KeyboardEvent, forwardRef, ForwardedRef } from 'react';
 import styled from 'styled-components';
 import searchIcon from './assets/search.svg';
 
 type Props = {
-  onChange?: (e?: React.ChangeEvent<HTMLInputElement>) => void;
+  onKeyDown?: (e: KeyboardEvent<HTMLInputElement>) => void;
+  ref?: ForwardedRef<HTMLInputElement>;
 };
 
 const Input = styled.input<Props>`
@@ -14,9 +15,16 @@ const Input = styled.input<Props>`
   font-family: 'Raleway', Helvetica, Sans-Serif;
   width: 95%;
 `;
+Input.displayName = 'Input';
 
-const FilterInput = ({ onChange }: Props) => (
-  <Input placeholder="Space Invaders, Pitfall, 1983, Activision..." type="text" {...{ onChange }} />
-);
+const FilterInput = forwardRef<HTMLInputElement, Props>(({ onKeyDown }, ref) => (
+  <Input
+    placeholder="Space Invaders, Pitfall, 1983, Activision...         press ↵ to search"
+    type="text"
+    defaultValue=""
+    {...{ onKeyDown, ref }}
+  />
+));
+FilterInput.displayName = 'FilterInput';
 
 export default FilterInput;
