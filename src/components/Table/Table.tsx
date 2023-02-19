@@ -1,13 +1,16 @@
 import React from 'react';
 import styled from 'styled-components';
-import { Game } from '../../types/Game';
+import { Game } from '../../domain/models/Game';
 
 import Item from '../Item';
 
 type Props = {
   games: Game[];
 };
-const Container = styled.div``;
+const Container = styled.div`
+  width: 80%;
+  margin: 0 auto;
+`;
 
 const EmptyTableMessage = styled.p`
   font-family: 'Press Start 2P', monospace, cursive;

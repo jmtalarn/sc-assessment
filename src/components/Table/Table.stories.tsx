@@ -2,7 +2,7 @@ import React from 'react';
 import { ComponentStory, ComponentMeta } from '@storybook/react';
 
 import Table from './Table';
-import { EXAMPLE_GAME } from '../../types/Game/mock/data';
+import { EXAMPLE_GAME } from '../../domain/models/Game/mock/data';
 
 export default {
   title: 'Table',

@@ -3,7 +3,7 @@ import { describe, it, expect } from 'vitest';
 import { render, screen } from '@testing-library/react';
 
 import Table from './Table';
-import { EXAMPLE_GAME } from '../../types/Game/mock/data';
+import { EXAMPLE_GAME } from '../../domain/models/Game/mock/data';
 
 const GAMES = [EXAMPLE_GAME, EXAMPLE_GAME, EXAMPLE_GAME, EXAMPLE_GAME, EXAMPLE_GAME];
 

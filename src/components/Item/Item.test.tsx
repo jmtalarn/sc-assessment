@@ -4,7 +4,7 @@ import { render, screen } from '@testing-library/react';
 
 import Item from './Item';
 import { convertDate } from '../../utils/dates';
-import { EXAMPLE_GAME } from '../../types/Game/mock/data';
+import { EXAMPLE_GAME } from '../../domain/models/Game/mock/data';
 
 describe('Item', () => {
   it('renders the game content', () => {

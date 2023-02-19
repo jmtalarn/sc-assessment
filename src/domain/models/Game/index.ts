@@ -1,7 +1,7 @@
 export type Game = {
   id: number;
-  cover: { url: string };
-  firstReleaseDate: number;
+  cover?: { url: string };
+  firstReleaseDate?: number;
   name: string;
   slug: string;
   summary: string;
