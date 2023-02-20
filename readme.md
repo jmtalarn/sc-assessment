@@ -15,3 +15,4 @@
 - `npm run test` Run the unit tests
 - `npm run storybook` Spins a server with the components Storybook showcase (usually http://localhost:6006)
 - `npm run backend` Spins the backend server with Json-server package (usually on http://localhost:3000). During the life of the session the changes and updates will persist. Once it is restarted it creates new clean database from the static json file `data/games-data.json`.
+- `npm run all-together` Using the `concurrently` package will run both, backend and frontend together. Both for the price of one.

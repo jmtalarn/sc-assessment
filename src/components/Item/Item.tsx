@@ -198,11 +198,10 @@ const Item = ({ game, onDelete, onUpdate }: Props) => {
             className="value"
             name="rating"
             onKeyDown={justNumbersOnKeyPress}
-            defaultValue={''}
             onChange={(e) => {
               setEditableFields({ ...editableFields, rating: parseInt(e.target.value) || '' });
             }}
-            value={editableFields.rating}
+            value={editableFields.rating || ''}
           />
         ) : (
           <span className="value">{rating}</span>

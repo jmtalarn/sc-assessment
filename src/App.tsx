@@ -21,6 +21,7 @@ const Container = styled.div`
 
   main {
     position: relative;
+    margin-bottom: 2rem;
   }
 `;
 
