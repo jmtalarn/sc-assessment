@@ -11,6 +11,12 @@
 
 ## Commands
 
+First of all
+
+- `npm install` will install all required dependencies.
+
+After this
+
 - `npm run dev` Run the frontend application (usually http://127.0.0.1:5173/)
 - `npm run test` Run the unit tests
 - `npm run storybook` Spins a server with the components Storybook showcase (usually http://localhost:6006)
