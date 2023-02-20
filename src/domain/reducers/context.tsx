@@ -1,6 +1,6 @@
 import React, { createContext, useReducer, Dispatch } from 'react';
 import gameReducer, { ActionType, StateShape } from './reducer';
-import { loadGames, updateGame, removeGame, newGame, searchGames as searchByTextGames } from '../service';
+import { useDataService } from '../service/useDataService';
 import { Game } from '../models/Game';
 
 const initialState: StateShape = { games: [], loading: false };
@@ -12,13 +12,6 @@ type ContextType = StateShape & {
   createGame: () => void;
   searchGames: (q?: string) => void;
 };
-// const AppContext = createContext<{
-//   state: StateShape;
-//   dispatch: Dispatch<ActionType>;
-// }>({
-//   state: initialState,
-//   dispatch: () => null,
-// });
 
 const AppContext = createContext<ContextType>({
   ...initialState,
@@ -31,6 +24,8 @@ const AppContext = createContext<ContextType>({
 
 const AppProvider: React.FC<{ children?: React.ReactNode }> = ({ children }) => {
   const [state, dispatch] = useReducer(gameReducer, initialState);
+
+  const { loadGames, updateGame, removeGame, newGame, searchGames: searchByTextGames } = useDataService();
 
   const value = {
     ...state,

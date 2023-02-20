@@ -7,6 +7,7 @@ import AppLoader from './domain/application/AppLoader';
 import Datatable from './domain/application/Datatable';
 import CreateGameButton from './domain/application/CreateGameButton';
 import QueryGameByTextInput from './domain/application/QueryGameByText';
+import { PageProvider } from './domain/service/pagination.context';
 
 export const DATA_TEST_ID = 'app';
 
@@ -25,21 +26,23 @@ const Container = styled.div`
 
 function App() {
   return (
-    <AppProvider>
-      <Container className="App" data-testid={DATA_TEST_ID}>
-        <GlobalStyle />
-        <header>
-          <Title title={`Atari 2600 games datatable`} />
-          <QueryGameByTextInput />
-        </header>
+    <PageProvider>
+      <AppProvider>
+        <Container className="App" data-testid={DATA_TEST_ID}>
+          <GlobalStyle />
+          <header>
+            <Title title={`Atari 2600 games datatable`} />
+            <QueryGameByTextInput />
+          </header>
 
-        <main>
-          <Datatable />
-          <CreateGameButton />
-        </main>
-        <AppLoader />
-      </Container>
-    </AppProvider>
+          <main>
+            <Datatable />
+            <CreateGameButton />
+          </main>
+          <AppLoader />
+        </Container>
+      </AppProvider>
+    </PageProvider>
   );
 }
 
