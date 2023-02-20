@@ -4,7 +4,7 @@ import { render, screen } from '@testing-library/react';
 
 import Loading from './Loading';
 
-const LOADING_TEXT = 'Loading...';
+const LOADING_TEXT = 'Loading ...';
 
 describe('Loading', () => {
   it('renders the loading', () => {

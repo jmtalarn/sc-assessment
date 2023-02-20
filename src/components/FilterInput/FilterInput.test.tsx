@@ -1,10 +1,10 @@
 import React from 'react';
 import { describe, it, expect, vi } from 'vitest';
-import { render, screen, fireEvent, act, waitFor } from '@testing-library/react';
+import { render, screen, fireEvent } from '@testing-library/react';
 
 import FilterInput from './FilterInput';
 
-describe('Button', () => {
+describe('Filter Input', () => {
   it('renders the input', () => {
     render(<FilterInput />);
 
@@ -13,13 +13,11 @@ describe('Button', () => {
 
   it('handles the typing', async () => {
     const mockHandleTyping = vi.fn();
-    render(<FilterInput onChange={mockHandleTyping} />);
+    render(<FilterInput onKeyDown={mockHandleTyping} />);
     const input = screen.getByRole('textbox');
-    screen.debug();
 
-    fireEvent.change(input, { target: { value: 'Space Invaders' } });
+    fireEvent.keyDown(input, { key: 'Enter', code: 'Enter', charCode: 13 });
 
-    expect(input).toHaveValue('Space Invaders');
     expect(mockHandleTyping).toHaveBeenCalledOnce();
   });
 });
